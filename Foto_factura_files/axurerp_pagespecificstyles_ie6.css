@@ -43,3 +43,13 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Foto_factura_files/u16_line.png");
 }
 
+* html .u17_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Foto_factura_files/u17_normal.png");
+}
+
+* html .u19_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Foto_factura_files/u17_normal.png");
+}
+

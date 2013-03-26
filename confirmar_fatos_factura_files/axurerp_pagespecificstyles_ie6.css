@@ -3,24 +3,29 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u4_normal.png");
 }
 
-* html .u6_normal {
+* html .u7_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u6_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u7_normal.png");
 }
 
-* html .u8_normal {
+* html .u9_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u8_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u9_normal.png");
 }
 
-* html .u18_normal {
+* html .u12_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u4_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u12_normal.png");
 }
 
-* html .u24_normal {
+* html .u22_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u24_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u22_normal.png");
+}
+
+* html .u31_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u31_normal.png");
 }
 
 * html .u33_normal {
@@ -28,44 +33,44 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u33_normal.png");
 }
 
-* html .u35_normal {
+* html .u35_line {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u35_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u35_line.png");
 }
 
-* html .u37_line {
+* html .u36_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u37_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u36_normal.png");
 }
 
 * html .u38_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u38_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u36_normal.png");
 }
 
 * html .u40_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u38_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u36_normal.png");
 }
 
 * html .u42_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u38_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u36_normal.png");
 }
 
 * html .u44_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u38_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u44_normal.png");
 }
 
-* html .u46_normal {
+* html .u51_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u46_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u51_normal.png");
 }
 
-* html .u52_normal {
+* html .u53_line {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u52_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u53_line.png");
 }
 
 * html .u54_line {
@@ -76,10 +81,5 @@
 * html .u55_line {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u55_line.png");
-}
-
-* html .u56_line {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="confirmar_fatos_factura_files/u56_line.png");
 }
 

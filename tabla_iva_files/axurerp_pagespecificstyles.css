@@ -61,7 +61,7 @@ div {
     left:112px;
     top:38px;
     width:275px;
-    height:153px;
+    height:413px;
     overflow:hidden;
 }
 
@@ -70,7 +70,7 @@ div {
     left:0px;
     top:0px;
     width:275px;
-    height:153px;
+    height:413px;
     overflow:auto;
     -webkit-overflow-scrolling: touch;
     overflow-x:hidden;
@@ -484,15 +484,15 @@ div {
     position:absolute;
     left:0px;
     top:4px;
-    width:76px;
+    width:277px;
     height:3px;
 }
 
 .u29 {
     position:absolute;
-    left:4px;
-    top:156px;
-    width:76px;
+    left:0px;
+    top:220px;
+    width:277px;
     height:10px;
     
 }
@@ -608,7 +608,7 @@ div {
 .u37_container {
     position:absolute;
     left:16px;
-    top:289px;
+    top:302px;
     width:9px;
     height:9px;
 }
@@ -642,7 +642,7 @@ div {
 .u39_container {
     position:absolute;
     left:36px;
-    top:289px;
+    top:302px;
     width:9px;
     height:9px;
 }
@@ -676,7 +676,7 @@ div {
 .u41_container {
     position:absolute;
     left:56px;
-    top:289px;
+    top:302px;
     width:9px;
     height:9px;
 }
@@ -710,7 +710,7 @@ div {
 .u43_container {
     position:absolute;
     left:76px;
-    top:289px;
+    top:302px;
     width:9px;
     height:9px;
 }
@@ -740,7 +740,7 @@ div {
 .u45 {
     position:absolute;
     left:18px;
-    top:302px;
+    top:315px;
     width:21px;
     height:7px;
     ;
@@ -754,7 +754,7 @@ div {
 .u46 {
     position:absolute;
     left:38px;
-    top:302px;
+    top:315px;
     width:21px;
     height:7px;
     ;
@@ -768,7 +768,7 @@ div {
 .u47 {
     position:absolute;
     left:58px;
-    top:302px;
+    top:315px;
     width:21px;
     height:7px;
     ;
@@ -782,7 +782,7 @@ div {
 .u48 {
     position:absolute;
     left:78px;
-    top:302px;
+    top:315px;
     width:21px;
     height:7px;
     ;
@@ -800,7 +800,7 @@ div {
 .u49_container {
     position:absolute;
     left:17px;
-    top:319px;
+    top:330px;
     width:9px;
     height:9px;
 }
@@ -830,7 +830,7 @@ div {
 .u51 {
     position:absolute;
     left:30px;
-    top:321px;
+    top:334px;
     width:21px;
     height:7px;
     ;
@@ -848,7 +848,7 @@ div {
 .u52_container {
     position:absolute;
     left:209px;
-    top:290px;
+    top:303px;
     width:56px;
     height:14px;
 }
@@ -882,7 +882,7 @@ div {
 .u54_container {
     position:absolute;
     left:224px;
-    top:224px;
+    top:254px;
     width:41px;
     height:35px;
 }
@@ -923,8 +923,8 @@ div {
 
 .u56 {
     position:absolute;
-    left:0px;
-    top:274px;
+    left:2px;
+    top:287px;
     width:76px;
     height:10px;
     
@@ -932,8 +932,8 @@ div {
 
 .u57 {
     position:absolute;
-    left:2px;
-    top:268px;
+    left:4px;
+    top:276px;
     width:94px;
     height:10px;
     ;
@@ -944,11 +944,88 @@ div {
     word-wrap:break-word;
 }
 
-.u58_normal {
-    background-image: url('../tabla_iva_files/u58_normal.png');
+.u58 {
+    position:absolute;
+    left:6px;
+    top:230px;
+    width:58px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
 }
 
-.u58_container {
+.u59 {
+    position:absolute;
+    left:136px;
+    top:230px;
+    width:38px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60 {
+    position:absolute;
+    left:176px;
+    top:230px;
+    width:38px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61 {
+    position:absolute;
+    left:212px;
+    top:230px;
+    width:38px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_line {
+    background-image: url('../tabla_iva_files/u62_line.png');
+}
+
+.u62_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:277px;
+    height:3px;
+}
+
+.u62 {
+    position:absolute;
+    left:0px;
+    top:238px;
+    width:277px;
+    height:10px;
+    
+}
+
+.u63_normal {
+    background-image: url('../tabla_iva_files/u63_normal.png');
+}
+
+.u63_container {
     position:absolute;
     left:624px;
     top:289px;
@@ -956,7 +1033,7 @@ div {
     height:20px;
 }
 
-#u58_img {
+#u63_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -964,7 +1041,7 @@ div {
     height:26px;
 }
 
-.u59 {
+.u64 {
     position:absolute;
     left:2px;
     top:2px;
@@ -978,11 +1055,11 @@ div {
     word-wrap:break-word;
 }
 
-.u60_line {
-    background-image: url('../tabla_iva_files/u60_line.png');
+.u65_line {
+    background-image: url('../tabla_iva_files/u65_line.png');
 }
 
-.u60_line {
+.u65_line {
     position:absolute;
     left:0px;
     top:4px;
@@ -990,7 +1067,7 @@ div {
     height:3px;
 }
 
-.u60 {
+.u65 {
     position:absolute;
     left:780px;
     top:289px;
@@ -999,11 +1076,11 @@ div {
     
 }
 
-.u61_line {
-    background-image: url('../tabla_iva_files/u61_line.png');
+.u66_line {
+    background-image: url('../tabla_iva_files/u66_line.png');
 }
 
-.u61_line {
+.u66_line {
     position:absolute;
     left:0px;
     top:4px;
@@ -1011,7 +1088,7 @@ div {
     height:3px;
 }
 
-.u61 {
+.u66 {
     position:absolute;
     left:780px;
     top:295px;
@@ -1020,11 +1097,11 @@ div {
     
 }
 
-.u62_line {
-    background-image: url('../tabla_iva_files/u62_line.png');
+.u67_line {
+    background-image: url('../tabla_iva_files/u67_line.png');
 }
 
-.u62_line {
+.u67_line {
     position:absolute;
     left:0px;
     top:4px;
@@ -1032,7 +1109,7 @@ div {
     height:3px;
 }
 
-.u62 {
+.u67 {
     position:absolute;
     left:780px;
     top:299px;
@@ -1041,11 +1118,11 @@ div {
     
 }
 
-.u63_normal {
-    background-image: url('../tabla_iva_files/u63_normal.png');
+.u68_normal {
+    background-image: url('../tabla_iva_files/u68_normal.png');
 }
 
-.u63_container {
+.u68_container {
     position:absolute;
     left:116px;
     top:16px;
@@ -1053,7 +1130,7 @@ div {
     height:22px;
 }
 
-#u63_img {
+#u68_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -1061,7 +1138,7 @@ div {
     height:28px;
 }
 
-.u64 {
+.u69 {
     position:absolute;
     left:2px;
     top:3px;
@@ -1075,7 +1152,7 @@ div {
     word-wrap:break-word;
 }
 
-.u65 {
+.u70 {
     position:absolute;
     left:248px;
     top:26px;
@@ -1089,7 +1166,7 @@ div {
     word-wrap:break-word;
 }
 
-.u66 {
+.u71 {
     position:absolute;
     left:284px;
     top:26px;
@@ -1103,7 +1180,7 @@ div {
     word-wrap:break-word;
 }
 
-.u67 {
+.u72 {
     position:absolute;
     left:324px;
     top:26px;
@@ -1117,11 +1194,11 @@ div {
     word-wrap:break-word;
 }
 
-.u68_line {
-    background-image: url('../tabla_iva_files/u68_line.png');
+.u73_line {
+    background-image: url('../tabla_iva_files/u73_line.png');
 }
 
-.u68_line {
+.u73_line {
     position:absolute;
     left:0px;
     top:4px;
@@ -1129,7 +1206,7 @@ div {
     height:3px;
 }
 
-.u68 {
+.u73 {
     position:absolute;
     left:244px;
     top:31px;

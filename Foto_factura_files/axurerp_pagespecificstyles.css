@@ -322,6 +322,74 @@ div {
     
 }
 
+.u17_normal {
+    background-image: url('../Foto_factura_files/u17_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:30px;
+    top:62px;
+    width:100px;
+    height:25px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:96px;
+    height:11px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../Foto_factura_files/u17_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:30px;
+    top:110px;
+    width:100px;
+    height:25px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
 #pd0u4 {
     position:absolute;
     left:0px;
@@ -331,7 +399,7 @@ div {
     
 }
 
-.u17_container {
+.u21_container {
     position:absolute;
     left:22px;
     top:49px;
@@ -339,7 +407,7 @@ div {
     height:204px;
 }
 
-#u17_img {
+#u21_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -347,7 +415,7 @@ div {
     height:204px;
 }
 
-.u18 {
+.u22 {
     position:absolute;
     left:2px;
     top:94px;
