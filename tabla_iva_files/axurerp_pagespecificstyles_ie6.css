@@ -83,28 +83,8 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="tabla_iva_files/u63_normal.png");
 }
 
-* html .u65_line {
+* html .u68_line {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="tabla_iva_files/u65_line.png");
-}
-
-* html .u66_line {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="tabla_iva_files/u66_line.png");
-}
-
-* html .u67_line {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="tabla_iva_files/u67_line.png");
-}
-
-* html .u68_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="tabla_iva_files/u68_normal.png");
-}
-
-* html .u73_line {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="tabla_iva_files/u73_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="tabla_iva_files/u68_line.png");
 }
 

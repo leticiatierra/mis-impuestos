@@ -61,7 +61,7 @@ div {
     left:112px;
     top:38px;
     width:275px;
-    height:413px;
+    height:153px;
     overflow:hidden;
 }
 
@@ -70,7 +70,7 @@ div {
     left:0px;
     top:0px;
     width:275px;
-    height:413px;
+    height:153px;
     overflow:auto;
     -webkit-overflow-scrolling: touch;
     overflow-x:hidden;
@@ -83,9 +83,9 @@ div {
 
 .u3_container {
     position:absolute;
-    left:-28px;
-    top:32px;
-    width:337px;
+    left:-46px;
+    top:50px;
+    width:374px;
     height:273px;-webkit-transform: rotate(90deg);
     -moz-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
@@ -97,7 +97,7 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:343px;
+    width:380px;
     height:279px;
 }
 
@@ -105,7 +105,7 @@ div {
     position:absolute;
     left:2px;
     top:128px;
-    width:333px;
+    width:370px;
     height:16px;
     ;
     ;
@@ -1027,110 +1027,13 @@ div {
 
 .u63_container {
     position:absolute;
-    left:624px;
-    top:289px;
-    width:174px;
-    height:20px;
-}
-
-#u63_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:180px;
-    height:26px;
-}
-
-.u64 {
-    position:absolute;
-    left:2px;
-    top:2px;
-    width:170px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u65_line {
-    background-image: url('../tabla_iva_files/u65_line.png');
-}
-
-.u65_line {
-    position:absolute;
-    left:0px;
-    top:4px;
-    width:8px;
-    height:3px;
-}
-
-.u65 {
-    position:absolute;
-    left:780px;
-    top:289px;
-    width:8px;
-    height:10px;
-    
-}
-
-.u66_line {
-    background-image: url('../tabla_iva_files/u66_line.png');
-}
-
-.u66_line {
-    position:absolute;
-    left:0px;
-    top:4px;
-    width:8px;
-    height:3px;
-}
-
-.u66 {
-    position:absolute;
-    left:780px;
-    top:295px;
-    width:8px;
-    height:10px;
-    
-}
-
-.u67_line {
-    background-image: url('../tabla_iva_files/u67_line.png');
-}
-
-.u67_line {
-    position:absolute;
-    left:0px;
-    top:4px;
-    width:8px;
-    height:3px;
-}
-
-.u67 {
-    position:absolute;
-    left:780px;
-    top:299px;
-    width:8px;
-    height:10px;
-    
-}
-
-.u68_normal {
-    background-image: url('../tabla_iva_files/u68_normal.png');
-}
-
-.u68_container {
-    position:absolute;
     left:116px;
     top:16px;
     width:270px;
     height:22px;
 }
 
-#u68_img {
+#u63_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -1138,7 +1041,7 @@ div {
     height:28px;
 }
 
-.u69 {
+.u64 {
     position:absolute;
     left:2px;
     top:3px;
@@ -1152,7 +1055,7 @@ div {
     word-wrap:break-word;
 }
 
-.u70 {
+.u65 {
     position:absolute;
     left:248px;
     top:26px;
@@ -1166,7 +1069,7 @@ div {
     word-wrap:break-word;
 }
 
-.u71 {
+.u66 {
     position:absolute;
     left:284px;
     top:26px;
@@ -1180,7 +1083,7 @@ div {
     word-wrap:break-word;
 }
 
-.u72 {
+.u67 {
     position:absolute;
     left:324px;
     top:26px;
@@ -1194,11 +1097,11 @@ div {
     word-wrap:break-word;
 }
 
-.u73_line {
-    background-image: url('../tabla_iva_files/u73_line.png');
+.u68_line {
+    background-image: url('../tabla_iva_files/u68_line.png');
 }
 
-.u73_line {
+.u68_line {
     position:absolute;
     left:0px;
     top:4px;
@@ -1206,7 +1109,7 @@ div {
     height:3px;
 }
 
-.u73 {
+.u68 {
     position:absolute;
     left:244px;
     top:31px;

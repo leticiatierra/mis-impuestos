@@ -1,8 +1,19 @@
-﻿for(var i = 0; i < 17; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+﻿for(var i = 0; i < 18; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
 
 $axure.eventManager.pageLoad(
 function (e) {
 
+});
+u17.tabIndex = 0;
+
+u17.style.cursor = 'pointer';
+$axure.eventManager.click('u17', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('Datos_FTU.html');
+
+}
 });
 gv_vAlignTable['u16'] = 'center';document.getElementById('u10_img').tabIndex = 0;
 

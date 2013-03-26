@@ -929,3 +929,16 @@ div {
     
 }
 
+#u56 {
+    position:absolute;
+    left:167px;
+    top:37px;
+    width:50px;
+    height:50px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+

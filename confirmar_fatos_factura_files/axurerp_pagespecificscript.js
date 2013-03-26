@@ -1,4 +1,4 @@
-﻿for(var i = 0; i < 56; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+﻿for(var i = 0; i < 57; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
 
 $axure.eventManager.pageLoad(
 function (e) {
@@ -14,7 +14,18 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u52'] = 'center';gv_vAlignTable['u20'] = 'top';document.getElementById('u22_img').tabIndex = 0;
+gv_vAlignTable['u52'] = 'center';u56.tabIndex = 0;
+
+u56.style.cursor = 'pointer';
+$axure.eventManager.click('u56', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('desplegable_FTU.html');
+
+}
+});
+gv_vAlignTable['u20'] = 'top';document.getElementById('u22_img').tabIndex = 0;
 
 u22.style.cursor = 'pointer';
 $axure.eventManager.click('u22', function(e) {
