@@ -26,7 +26,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u21'] = 'center';gv_vAlignTable['u23'] = 'top';gv_vAlignTable['u25'] = 'top';gv_vAlignTable['u26'] = 'top';gv_vAlignTable['u27'] = 'top';gv_vAlignTable['u28'] = 'top';gv_vAlignTable['u30'] = 'center';gv_vAlignTable['u32'] = 'center';gv_vAlignTable['u35'] = 'center';gv_vAlignTable['u37'] = 'center';gv_vAlignTable['u39'] = 'center';gv_vAlignTable['u1'] = 'top';gv_vAlignTable['u5'] = 'center';u6.tabIndex = 0;
+gv_vAlignTable['u21'] = 'center';gv_vAlignTable['u23'] = 'top';gv_vAlignTable['u25'] = 'top';gv_vAlignTable['u26'] = 'top';gv_vAlignTable['u28'] = 'center';gv_vAlignTable['u30'] = 'center';gv_vAlignTable['u32'] = 'center';gv_vAlignTable['u34'] = 'center';gv_vAlignTable['u36'] = 'center';gv_vAlignTable['u37'] = 'top';gv_vAlignTable['u38'] = 'top';gv_vAlignTable['u39'] = 'top';gv_vAlignTable['u1'] = 'top';gv_vAlignTable['u5'] = 'center';u6.tabIndex = 0;
 
 u6.style.cursor = 'pointer';
 $axure.eventManager.click('u6', function(e) {
@@ -37,9 +37,9 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u8'] = 'center';gv_vAlignTable['u41'] = 'center';gv_vAlignTable['u45'] = 'top';gv_vAlignTable['u43'] = 'center';gv_vAlignTable['u44'] = 'top';
-u48.style.cursor = 'pointer';
-$axure.eventManager.click('u48', function(e) {
+gv_vAlignTable['u8'] = 'center';gv_vAlignTable['u40'] = 'top';
+u41.style.cursor = 'pointer';
+$axure.eventManager.click('u41', function(e) {
 
 if (true) {
 
@@ -47,7 +47,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u46'] = 'top';gv_vAlignTable['u47'] = 'top';gv_vAlignTable['u10'] = 'center';gv_vAlignTable['u13'] = 'center';
+gv_vAlignTable['u43'] = 'top';gv_vAlignTable['u44'] = 'top';gv_vAlignTable['u48'] = 'center';gv_vAlignTable['u46'] = 'center';gv_vAlignTable['u10'] = 'center';gv_vAlignTable['u13'] = 'center';
 u14.style.cursor = 'pointer';
 $axure.eventManager.click('u14', function(e) {
 

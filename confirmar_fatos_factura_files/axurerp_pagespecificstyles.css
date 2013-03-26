@@ -232,25 +232,25 @@ div {
 
 .u12_container {
     position:absolute;
-    left:0px;
-    top:114px;
-    width:195px;
-    height:130px;
+    left:19px;
+    top:125px;
+    width:178px;
+    height:121px;
 }
 
 #u12_img {
     position:absolute;
     left:0px;
     top:0px;
-    width:195px;
-    height:130px;
+    width:178px;
+    height:121px;
 }
 
 .u13 {
     position:absolute;
     left:2px;
-    top:57px;
-    width:191px;
+    top:52px;
+    width:174px;
     height:16px;
     ;
     ;
@@ -262,7 +262,7 @@ div {
 
 .u14 {
     position:absolute;
-    left:20px;
+    left:26px;
     top:42px;
     width:90px;
     height:19px;
@@ -293,7 +293,7 @@ div {
 
 .u16 {
     position:absolute;
-    left:20px;
+    left:26px;
     top:11px;
     width:150px;
     height:15px;
@@ -320,7 +320,7 @@ div {
 .u17 {
     position:absolute;
     left:31px;
-    top:16px;
+    top:40px;
     width:140px;
     height:15px;
     ;
@@ -334,7 +334,7 @@ div {
 .u18 {
     position:absolute;
     left:30px;
-    top:119px;
+    top:143px;
     width:150px;
     height:15px;
     ;
@@ -348,7 +348,7 @@ div {
 .u19 {
     position:absolute;
     left:31px;
-    top:46px;
+    top:70px;
     width:150px;
     height:15px;
     ;
@@ -366,7 +366,7 @@ div {
 .u20_container {
     position:absolute;
     left:71px;
-    top:301px;
+    top:325px;
     width:100px;
     height:25px;
 }
@@ -424,7 +424,7 @@ div {
 .u26 {
     position:absolute;
     left:30px;
-    top:193px;
+    top:217px;
     width:150px;
     height:15px;
     ;
@@ -435,26 +435,32 @@ div {
     word-wrap:break-word;
 }
 
-.u27 {
+.u27_normal {
+    background-image: url('../confirmar_fatos_factura_files/u27_normal.png');
+}
+
+.u27_container {
     position:absolute;
-    left:108px;
-    top:354px;
-    width:150px;
-    height:9px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
+    left:29px;
+    top:242px;
+    width:10px;
+    height:10px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:16px;
+    height:16px;
 }
 
 .u28 {
     position:absolute;
-    left:46px;
-    top:354px;
-    width:39px;
-    height:9px;
+    left:2px;
+    top:-3px;
+    width:6px;
+    height:16px;
     ;
     ;
     ;
@@ -464,31 +470,31 @@ div {
 }
 
 .u29_normal {
-    background-image: url('../confirmar_fatos_factura_files/u29_normal.png');
+    background-image: url('../confirmar_fatos_factura_files/u27_normal.png');
 }
 
 .u29_container {
     position:absolute;
-    left:57px;
-    top:339px;
-    width:12px;
-    height:12px;
+    left:59px;
+    top:242px;
+    width:10px;
+    height:10px;
 }
 
 #u29_img {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:18px;
-    height:18px;
+    width:16px;
+    height:16px;
 }
 
 .u30 {
     position:absolute;
     left:2px;
-    top:1px;
-    width:8px;
-    height:10px;
+    top:-3px;
+    width:6px;
+    height:16px;
     ;
     ;
     ;
@@ -498,83 +504,28 @@ div {
 }
 
 .u31_normal {
-    background-image: url('../confirmar_fatos_factura_files/u31_normal.png');
+    background-image: url('../confirmar_fatos_factura_files/u27_normal.png');
 }
 
 .u31_container {
     position:absolute;
-    left:122px;
-    top:339px;
-    width:12px;
-    height:12px;
+    left:89px;
+    top:242px;
+    width:10px;
+    height:10px;
 }
 
 #u31_img {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:18px;
-    height:18px;
+    width:16px;
+    height:16px;
 }
 
 .u32 {
     position:absolute;
     left:2px;
-    top:1px;
-    width:8px;
-    height:10px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u33_line {
-    background-image: url('../confirmar_fatos_factura_files/u33_line.png');
-}
-
-.u33_line {
-    position:absolute;
-    left:0px;
-    top:4px;
-    width:53px;
-    height:3px;
-}
-
-.u33 {
-    position:absolute;
-    left:69px;
-    top:340px;
-    width:53px;
-    height:10px;
-    
-}
-
-.u34_normal {
-    background-image: url('../confirmar_fatos_factura_files/u34_normal.png');
-}
-
-.u34_container {
-    position:absolute;
-    left:29px;
-    top:218px;
-    width:10px;
-    height:10px;
-}
-
-#u34_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:16px;
-    height:16px;
-}
-
-.u35 {
-    position:absolute;
-    left:2px;
     top:-3px;
     width:6px;
     height:16px;
@@ -586,87 +537,19 @@ div {
     word-wrap:break-word;
 }
 
-.u36_normal {
-    background-image: url('../confirmar_fatos_factura_files/u34_normal.png');
+.u33_normal {
+    background-image: url('../confirmar_fatos_factura_files/u27_normal.png');
 }
 
-.u36_container {
-    position:absolute;
-    left:59px;
-    top:218px;
-    width:10px;
-    height:10px;
-}
-
-#u36_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:16px;
-    height:16px;
-}
-
-.u37 {
-    position:absolute;
-    left:2px;
-    top:-3px;
-    width:6px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u38_normal {
-    background-image: url('../confirmar_fatos_factura_files/u34_normal.png');
-}
-
-.u38_container {
-    position:absolute;
-    left:89px;
-    top:218px;
-    width:10px;
-    height:10px;
-}
-
-#u38_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:16px;
-    height:16px;
-}
-
-.u39 {
-    position:absolute;
-    left:2px;
-    top:-3px;
-    width:6px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u40_normal {
-    background-image: url('../confirmar_fatos_factura_files/u34_normal.png');
-}
-
-.u40_container {
+.u33_container {
     position:absolute;
     left:120px;
-    top:218px;
+    top:242px;
     width:10px;
     height:10px;
 }
 
-#u40_img {
+#u33_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -674,7 +557,7 @@ div {
     height:16px;
 }
 
-.u41 {
+.u34 {
     position:absolute;
     left:2px;
     top:-3px;
@@ -688,19 +571,19 @@ div {
     word-wrap:break-word;
 }
 
-.u42_normal {
-    background-image: url('../confirmar_fatos_factura_files/u42_normal.png');
+.u35_normal {
+    background-image: url('../confirmar_fatos_factura_files/u35_normal.png');
 }
 
-.u42_container {
+.u35_container {
     position:absolute;
     left:32px;
-    top:221px;
+    top:245px;
     width:4px;
     height:4px;
 }
 
-#u42_img {
+#u35_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -708,7 +591,7 @@ div {
     height:10px;
 }
 
-.u43 {
+.u36 {
     position:absolute;
     left:2px;
     top:-6px;
@@ -722,10 +605,10 @@ div {
     word-wrap:break-word;
 }
 
-.u44 {
+.u37 {
     position:absolute;
     left:31px;
-    top:231px;
+    top:255px;
     width:28px;
     height:6px;
     ;
@@ -736,10 +619,10 @@ div {
     word-wrap:break-word;
 }
 
-.u45 {
+.u38 {
     position:absolute;
     left:61px;
-    top:231px;
+    top:255px;
     width:28px;
     height:6px;
     ;
@@ -750,10 +633,10 @@ div {
     word-wrap:break-word;
 }
 
-.u46 {
+.u39 {
     position:absolute;
     left:92px;
-    top:231px;
+    top:255px;
     width:28px;
     height:6px;
     ;
@@ -764,10 +647,10 @@ div {
     word-wrap:break-word;
 }
 
-.u47 {
+.u40 {
     position:absolute;
     left:123px;
-    top:231px;
+    top:255px;
     width:28px;
     height:6px;
     ;
@@ -778,10 +661,10 @@ div {
     word-wrap:break-word;
 }
 
-.u48 {
+.u41 {
     position:absolute;
     left:30px;
-    top:64px;
+    top:88px;
     width:90px;
     height:19px;
     ;
@@ -796,10 +679,10 @@ div {
     
 }
 
-.u49 {
+.u42 {
     position:absolute;
     left:30px;
-    top:141px;
+    top:165px;
     width:88px;
     height:22px;
     ;
@@ -811,6 +694,123 @@ div {
     font-style:normal;
     font-weight:normal;
     text-decoration:none;
+    
+}
+
+.u43 {
+    position:absolute;
+    left:113px;
+    top:21px;
+    width:150px;
+    height:9px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44 {
+    position:absolute;
+    left:51px;
+    top:21px;
+    width:39px;
+    height:9px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45_normal {
+    background-image: url('../confirmar_fatos_factura_files/u45_normal.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:62px;
+    top:6px;
+    width:12px;
+    height:12px;
+}
+
+#u45_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:18px;
+    height:18px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:8px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../confirmar_fatos_factura_files/u47_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:127px;
+    top:6px;
+    width:12px;
+    height:12px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:18px;
+    height:18px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:8px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49_line {
+    background-image: url('../confirmar_fatos_factura_files/u49_line.png');
+}
+
+.u49_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:53px;
+    height:3px;
+}
+
+.u49 {
+    position:absolute;
+    left:74px;
+    top:7px;
+    width:53px;
+    height:10px;
     
 }
 

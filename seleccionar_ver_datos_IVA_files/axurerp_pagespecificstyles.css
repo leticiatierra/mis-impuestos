@@ -224,9 +224,9 @@ div {
 #u11 {
     position:absolute;
     left:14px;
-    top:70px;
+    top:66px;
     width:171px;
-    height:238px;
+    height:242px;
     overflow:hidden;
 }
 
@@ -235,7 +235,7 @@ div {
     left:0px;
     top:0px;
     width:171px;
-    height:238px;
+    height:242px;
     overflow:auto;
     -webkit-overflow-scrolling: touch;
     overflow-x:hidden;

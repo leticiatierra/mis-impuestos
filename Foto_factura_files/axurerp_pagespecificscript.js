@@ -4,6 +4,17 @@ $axure.eventManager.pageLoad(
 function (e) {
 
 });
+document.getElementById('u19_img').tabIndex = 0;
+
+u19.style.cursor = 'pointer';
+$axure.eventManager.click('u19', function(e) {
+
+if (true) {
+
+    self.location.href="resources/reload.html#" + encodeURI($axure.globalVariableProvider.getLinkUrl($axure.pageData.url));
+
+}
+});
 gv_vAlignTable['u18'] = 'center';document.getElementById('u21_img').tabIndex = 0;
 
 u21.style.cursor = 'pointer';
