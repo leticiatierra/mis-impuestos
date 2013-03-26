@@ -1,0 +1,1140 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_container {
+    position:absolute;
+    left:124px;
+    top:-106px;
+    width:197px;
+    height:420px;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:197px;
+    height:420px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:202px;
+    width:193px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u2 {
+    position:absolute;
+    left:112px;
+    top:38px;
+    width:275px;
+    height:153px;
+    overflow:hidden;
+}
+
+#pd0u2 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:275px;
+    height:153px;
+    overflow:auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-x:hidden;
+    -ms-overflow-x:hidden;
+}
+
+.u3_normal {
+    background-image: url('../tabla_iva_files/u3_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:-28px;
+    top:32px;
+    width:337px;
+    height:273px;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+#u3_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:343px;
+    height:279px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:128px;
+    width:333px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_line {
+    background-image: url('../tabla_iva_files/u5_line.png');
+}
+
+.u5_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:76px;
+    height:3px;
+}
+
+.u5 {
+    position:absolute;
+    left:4px;
+    top:27px;
+    width:76px;
+    height:10px;
+    
+}
+
+.u6 {
+    position:absolute;
+    left:4px;
+    top:21px;
+    width:94px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../tabla_iva_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:6px;
+    top:41px;
+    width:19px;
+    height:18px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:24px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:15px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9 {
+    position:absolute;
+    left:28px;
+    top:47px;
+    width:58px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:136px;
+    top:47px;
+    width:38px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:176px;
+    top:47px;
+    width:38px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:212px;
+    top:47px;
+    width:38px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../tabla_iva_files/u7_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:6px;
+    top:69px;
+    width:19px;
+    height:18px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:24px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:15px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:28px;
+    top:75px;
+    width:58px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:136px;
+    top:75px;
+    width:38px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:176px;
+    top:75px;
+    width:38px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:212px;
+    top:75px;
+    width:38px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../tabla_iva_files/u7_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:6px;
+    top:100px;
+    width:19px;
+    height:18px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:24px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:15px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21 {
+    position:absolute;
+    left:28px;
+    top:106px;
+    width:58px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:136px;
+    top:106px;
+    width:38px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:176px;
+    top:106px;
+    width:38px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:212px;
+    top:106px;
+    width:38px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25 {
+    position:absolute;
+    left:6px;
+    top:131px;
+    width:58px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:136px;
+    top:131px;
+    width:38px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:176px;
+    top:131px;
+    width:38px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:212px;
+    top:131px;
+    width:38px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_line {
+    background-image: url('../tabla_iva_files/u29_line.png');
+}
+
+.u29_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:76px;
+    height:3px;
+}
+
+.u29 {
+    position:absolute;
+    left:4px;
+    top:156px;
+    width:76px;
+    height:10px;
+    
+}
+
+.u30 {
+    position:absolute;
+    left:6px;
+    top:146px;
+    width:94px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_normal {
+    background-image: url('../tabla_iva_files/u7_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:6px;
+    top:166px;
+    width:19px;
+    height:18px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:24px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:15px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33 {
+    position:absolute;
+    left:28px;
+    top:172px;
+    width:58px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:136px;
+    top:172px;
+    width:38px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:176px;
+    top:172px;
+    width:38px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36 {
+    position:absolute;
+    left:212px;
+    top:172px;
+    width:38px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37_normal {
+    background-image: url('../tabla_iva_files/u37_normal.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:16px;
+    top:289px;
+    width:9px;
+    height:9px;
+}
+
+#u37_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:15px;
+    height:15px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:5px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39_normal {
+    background-image: url('../tabla_iva_files/u37_normal.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:36px;
+    top:289px;
+    width:9px;
+    height:9px;
+}
+
+#u39_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:15px;
+    height:15px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:5px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41_normal {
+    background-image: url('../tabla_iva_files/u37_normal.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:56px;
+    top:289px;
+    width:9px;
+    height:9px;
+}
+
+#u41_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:15px;
+    height:15px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:5px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43_normal {
+    background-image: url('../tabla_iva_files/u37_normal.png');
+}
+
+.u43_container {
+    position:absolute;
+    left:76px;
+    top:289px;
+    width:9px;
+    height:9px;
+}
+
+#u43_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:15px;
+    height:15px;
+}
+
+.u44 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:5px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45 {
+    position:absolute;
+    left:18px;
+    top:302px;
+    width:21px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:38px;
+    top:302px;
+    width:21px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47 {
+    position:absolute;
+    left:58px;
+    top:302px;
+    width:21px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48 {
+    position:absolute;
+    left:78px;
+    top:302px;
+    width:21px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49_normal {
+    background-image: url('../tabla_iva_files/u37_normal.png');
+}
+
+.u49_container {
+    position:absolute;
+    left:17px;
+    top:319px;
+    width:9px;
+    height:9px;
+}
+
+#u49_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:15px;
+    height:15px;
+}
+
+.u50 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:5px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51 {
+    position:absolute;
+    left:30px;
+    top:321px;
+    width:21px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../tabla_iva_files/u52_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:209px;
+    top:290px;
+    width:56px;
+    height:14px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:62px;
+    height:20px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:52px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_normal {
+    background-image: url('../tabla_iva_files/u54_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:224px;
+    top:224px;
+    width:41px;
+    height:35px;
+}
+
+#u54_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:41px;
+    height:35px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:37px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56_line {
+    background-image: url('../tabla_iva_files/u56_line.png');
+}
+
+.u56_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:76px;
+    height:3px;
+}
+
+.u56 {
+    position:absolute;
+    left:0px;
+    top:274px;
+    width:76px;
+    height:10px;
+    
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:268px;
+    width:94px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_normal {
+    background-image: url('../tabla_iva_files/u58_normal.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:624px;
+    top:289px;
+    width:174px;
+    height:20px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:26px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60_line {
+    background-image: url('../tabla_iva_files/u60_line.png');
+}
+
+.u60_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:8px;
+    height:3px;
+}
+
+.u60 {
+    position:absolute;
+    left:780px;
+    top:289px;
+    width:8px;
+    height:10px;
+    
+}
+
+.u61_line {
+    background-image: url('../tabla_iva_files/u61_line.png');
+}
+
+.u61_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:8px;
+    height:3px;
+}
+
+.u61 {
+    position:absolute;
+    left:780px;
+    top:295px;
+    width:8px;
+    height:10px;
+    
+}
+
+.u62_line {
+    background-image: url('../tabla_iva_files/u62_line.png');
+}
+
+.u62_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:8px;
+    height:3px;
+}
+
+.u62 {
+    position:absolute;
+    left:780px;
+    top:299px;
+    width:8px;
+    height:10px;
+    
+}
+
+.u63_normal {
+    background-image: url('../tabla_iva_files/u63_normal.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:116px;
+    top:16px;
+    width:270px;
+    height:22px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:276px;
+    height:28px;
+}
+
+.u64 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:266px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65 {
+    position:absolute;
+    left:248px;
+    top:26px;
+    width:22px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66 {
+    position:absolute;
+    left:284px;
+    top:26px;
+    width:35px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67 {
+    position:absolute;
+    left:324px;
+    top:26px;
+    width:35px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68_line {
+    background-image: url('../tabla_iva_files/u68_line.png');
+}
+
+.u68_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:104px;
+    height:3px;
+}
+
+.u68 {
+    position:absolute;
+    left:244px;
+    top:31px;
+    width:104px;
+    height:10px;
+    
+}
+
