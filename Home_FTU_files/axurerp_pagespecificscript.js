@@ -17,7 +17,7 @@ $axure.eventManager.click('u18', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('desplegable_FTU.html');
+	self.location.href='#';
 
 }
 });

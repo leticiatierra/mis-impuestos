@@ -124,104 +124,7 @@ div {
     word-wrap:break-word;
 }
 
-.u6_normal {
-    background-image: url('../seleccionar_ver_datos_IVA_files/u6_normal.png');
-}
-
-.u6_container {
-    position:absolute;
-    left:10px;
-    top:41px;
-    width:174px;
-    height:20px;
-}
-
-#u6_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:180px;
-    height:26px;
-}
-
-.u7 {
-    position:absolute;
-    left:2px;
-    top:2px;
-    width:170px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u8_line {
-    background-image: url('../seleccionar_ver_datos_IVA_files/u8_line.png');
-}
-
-.u8_line {
-    position:absolute;
-    left:0px;
-    top:4px;
-    width:8px;
-    height:3px;
-}
-
-.u8 {
-    position:absolute;
-    left:166px;
-    top:41px;
-    width:8px;
-    height:10px;
-    
-}
-
-.u9_line {
-    background-image: url('../seleccionar_ver_datos_IVA_files/u9_line.png');
-}
-
-.u9_line {
-    position:absolute;
-    left:0px;
-    top:4px;
-    width:8px;
-    height:3px;
-}
-
-.u9 {
-    position:absolute;
-    left:166px;
-    top:46px;
-    width:8px;
-    height:10px;
-    
-}
-
-.u10_line {
-    background-image: url('../seleccionar_ver_datos_IVA_files/u10_line.png');
-}
-
-.u10_line {
-    position:absolute;
-    left:0px;
-    top:4px;
-    width:8px;
-    height:3px;
-}
-
-.u10 {
-    position:absolute;
-    left:166px;
-    top:51px;
-    width:8px;
-    height:10px;
-    
-}
-
-#u11 {
+#u6 {
     position:absolute;
     left:14px;
     top:66px;
@@ -230,7 +133,7 @@ div {
     overflow:hidden;
 }
 
-#pd0u11 {
+#pd0u6 {
     position:absolute;
     left:0px;
     top:0px;
@@ -242,11 +145,11 @@ div {
     -ms-overflow-x:hidden;
 }
 
-.u12_normal {
-    background-image: url('../seleccionar_ver_datos_IVA_files/u12_normal.png');
+.u7_normal {
+    background-image: url('../seleccionar_ver_datos_IVA_files/u7_normal.png');
 }
 
-.u12_container {
+.u7_container {
     position:absolute;
     left:0px;
     top:48px;
@@ -254,7 +157,7 @@ div {
     height:47px;
 }
 
-#u12_img {
+#u7_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -262,7 +165,7 @@ div {
     height:53px;
 }
 
-.u13 {
+.u8 {
     position:absolute;
     left:2px;
     top:16px;
@@ -276,7 +179,7 @@ div {
     word-wrap:break-word;
 }
 
-.u14 {
+.u9 {
     position:absolute;
     left:4px;
     top:0px;
@@ -290,11 +193,11 @@ div {
     word-wrap:break-word;
 }
 
-.u15_normal {
-    background-image: url('../seleccionar_ver_datos_IVA_files/u15_normal.png');
+.u10_normal {
+    background-image: url('../seleccionar_ver_datos_IVA_files/u10_normal.png');
 }
 
-.u15_container {
+.u10_container {
     position:absolute;
     left:1px;
     top:186px;
@@ -302,7 +205,7 @@ div {
     height:47px;
 }
 
-#u15_img {
+#u10_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -310,7 +213,7 @@ div {
     height:53px;
 }
 
-.u16 {
+.u11 {
     position:absolute;
     left:2px;
     top:16px;
@@ -324,11 +227,11 @@ div {
     word-wrap:break-word;
 }
 
-.u17_normal {
-    background-image: url('../seleccionar_ver_datos_IVA_files/u17_normal.png');
+.u12_normal {
+    background-image: url('../seleccionar_ver_datos_IVA_files/u12_normal.png');
 }
 
-.u17_container {
+.u12_container {
     position:absolute;
     left:1px;
     top:243px;
@@ -336,7 +239,7 @@ div {
     height:47px;
 }
 
-#u17_img {
+#u12_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -344,7 +247,7 @@ div {
     height:53px;
 }
 
-.u18 {
+.u13 {
     position:absolute;
     left:2px;
     top:16px;
@@ -358,11 +261,11 @@ div {
     word-wrap:break-word;
 }
 
-.u19_normal {
-    background-image: url('../seleccionar_ver_datos_IVA_files/u19_normal.png');
+.u14_normal {
+    background-image: url('../seleccionar_ver_datos_IVA_files/u14_normal.png');
 }
 
-.u19_container {
+.u14_container {
     position:absolute;
     left:17px;
     top:111px;
@@ -370,7 +273,7 @@ div {
     height:10px;
 }
 
-#u19_img {
+#u14_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -378,7 +281,7 @@ div {
     height:16px;
 }
 
-.u20 {
+.u15 {
     position:absolute;
     left:2px;
     top:-3px;
@@ -392,11 +295,11 @@ div {
     word-wrap:break-word;
 }
 
-.u21_normal {
-    background-image: url('../seleccionar_ver_datos_IVA_files/u19_normal.png');
+.u16_normal {
+    background-image: url('../seleccionar_ver_datos_IVA_files/u14_normal.png');
 }
 
-.u21_container {
+.u16_container {
     position:absolute;
     left:47px;
     top:111px;
@@ -404,7 +307,7 @@ div {
     height:10px;
 }
 
-#u21_img {
+#u16_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -412,7 +315,7 @@ div {
     height:16px;
 }
 
-.u22 {
+.u17 {
     position:absolute;
     left:2px;
     top:-3px;
@@ -426,11 +329,11 @@ div {
     word-wrap:break-word;
 }
 
-.u23_normal {
-    background-image: url('../seleccionar_ver_datos_IVA_files/u19_normal.png');
+.u18_normal {
+    background-image: url('../seleccionar_ver_datos_IVA_files/u14_normal.png');
 }
 
-.u23_container {
+.u18_container {
     position:absolute;
     left:77px;
     top:111px;
@@ -438,7 +341,7 @@ div {
     height:10px;
 }
 
-#u23_img {
+#u18_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -446,7 +349,7 @@ div {
     height:16px;
 }
 
-.u24 {
+.u19 {
     position:absolute;
     left:2px;
     top:-3px;
@@ -460,11 +363,11 @@ div {
     word-wrap:break-word;
 }
 
-.u25_normal {
-    background-image: url('../seleccionar_ver_datos_IVA_files/u19_normal.png');
+.u20_normal {
+    background-image: url('../seleccionar_ver_datos_IVA_files/u14_normal.png');
 }
 
-.u25_container {
+.u20_container {
     position:absolute;
     left:108px;
     top:111px;
@@ -472,7 +375,7 @@ div {
     height:10px;
 }
 
-#u25_img {
+#u20_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -480,7 +383,7 @@ div {
     height:16px;
 }
 
-.u26 {
+.u21 {
     position:absolute;
     left:2px;
     top:-3px;
@@ -494,11 +397,11 @@ div {
     word-wrap:break-word;
 }
 
-.u27_normal {
-    background-image: url('../seleccionar_ver_datos_IVA_files/u27_normal.png');
+.u22_normal {
+    background-image: url('../seleccionar_ver_datos_IVA_files/u22_normal.png');
 }
 
-.u27_container {
+.u22_container {
     position:absolute;
     left:20px;
     top:114px;
@@ -506,7 +409,7 @@ div {
     height:4px;
 }
 
-#u27_img {
+#u22_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -514,7 +417,7 @@ div {
     height:10px;
 }
 
-.u28 {
+.u23 {
     position:absolute;
     left:2px;
     top:-6px;
@@ -528,7 +431,7 @@ div {
     word-wrap:break-word;
 }
 
-.u29 {
+.u24 {
     position:absolute;
     left:19px;
     top:124px;
@@ -542,7 +445,7 @@ div {
     word-wrap:break-word;
 }
 
-.u30 {
+.u25 {
     position:absolute;
     left:49px;
     top:124px;
@@ -556,7 +459,7 @@ div {
     word-wrap:break-word;
 }
 
-.u31 {
+.u26 {
     position:absolute;
     left:80px;
     top:124px;
@@ -570,7 +473,7 @@ div {
     word-wrap:break-word;
 }
 
-.u32 {
+.u27 {
     position:absolute;
     left:111px;
     top:124px;
@@ -584,11 +487,11 @@ div {
     word-wrap:break-word;
 }
 
-.u33_normal {
-    background-image: url('../seleccionar_ver_datos_IVA_files/u19_normal.png');
+.u28_normal {
+    background-image: url('../seleccionar_ver_datos_IVA_files/u14_normal.png');
 }
 
-.u33_container {
+.u28_container {
     position:absolute;
     left:17px;
     top:144px;
@@ -596,7 +499,7 @@ div {
     height:10px;
 }
 
-#u33_img {
+#u28_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -604,7 +507,7 @@ div {
     height:16px;
 }
 
-.u34 {
+.u29 {
     position:absolute;
     left:2px;
     top:-3px;
@@ -618,12 +521,80 @@ div {
     word-wrap:break-word;
 }
 
-.u35 {
+.u30 {
     position:absolute;
     left:31px;
     top:145px;
     width:150px;
     height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_normal {
+    background-image: url('../seleccionar_ver_datos_IVA_files/u31_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:19px;
+    top:49px;
+    width:11px;
+    height:10px;
+}
+
+#u31_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:11px;
+    height:10px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:7px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_normal {
+    background-image: url('../seleccionar_ver_datos_IVA_files/u33_normal.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:170px;
+    top:49px;
+    width:10px;
+    height:10px;
+}
+
+#u33_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:10px;
+    height:10px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:6px;
+    height:16px;
     ;
     ;
     ;

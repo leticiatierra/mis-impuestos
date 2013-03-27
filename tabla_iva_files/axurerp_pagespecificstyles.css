@@ -58,10 +58,10 @@ div {
 
 #u2 {
     position:absolute;
-    left:112px;
-    top:38px;
-    width:275px;
-    height:153px;
+    left:116px;
+    top:60px;
+    width:271px;
+    height:131px;
     overflow:hidden;
 }
 
@@ -69,8 +69,8 @@ div {
     position:absolute;
     left:0px;
     top:0px;
-    width:275px;
-    height:153px;
+    width:271px;
+    height:131px;
     overflow:auto;
     -webkit-overflow-scrolling: touch;
     overflow-x:hidden;
@@ -150,43 +150,9 @@ div {
     word-wrap:break-word;
 }
 
-.u7_normal {
-    background-image: url('../tabla_iva_files/u7_normal.png');
-}
-
-.u7_container {
+.u7 {
     position:absolute;
     left:6px;
-    top:41px;
-    width:19px;
-    height:18px;
-}
-
-#u7_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:25px;
-    height:24px;
-}
-
-.u8 {
-    position:absolute;
-    left:2px;
-    top:1px;
-    width:15px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u9 {
-    position:absolute;
-    left:28px;
     top:47px;
     width:58px;
     height:7px;
@@ -198,9 +164,37 @@ div {
     word-wrap:break-word;
 }
 
-.u10 {
+.u8 {
     position:absolute;
     left:136px;
+    top:47px;
+    width:38px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9 {
+    position:absolute;
+    left:176px;
+    top:47px;
+    width:38px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:212px;
     top:47px;
     width:38px;
     height:7px;
@@ -214,8 +208,8 @@ div {
 
 .u11 {
     position:absolute;
-    left:176px;
-    top:47px;
+    left:136px;
+    top:75px;
     width:38px;
     height:7px;
     ;
@@ -228,8 +222,8 @@ div {
 
 .u12 {
     position:absolute;
-    left:212px;
-    top:47px;
+    left:176px;
+    top:75px;
     width:38px;
     height:7px;
     ;
@@ -240,32 +234,26 @@ div {
     word-wrap:break-word;
 }
 
-.u13_normal {
-    background-image: url('../tabla_iva_files/u7_normal.png');
-}
-
-.u13_container {
+.u13 {
     position:absolute;
-    left:6px;
-    top:69px;
-    width:19px;
-    height:18px;
-}
-
-#u13_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:25px;
-    height:24px;
+    left:212px;
+    top:75px;
+    width:38px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
 }
 
 .u14 {
     position:absolute;
-    left:2px;
-    top:1px;
-    width:15px;
-    height:16px;
+    left:136px;
+    top:106px;
+    width:38px;
+    height:7px;
     ;
     ;
     ;
@@ -276,9 +264,9 @@ div {
 
 .u15 {
     position:absolute;
-    left:28px;
-    top:75px;
-    width:58px;
+    left:176px;
+    top:106px;
+    width:38px;
     height:7px;
     ;
     ;
@@ -290,8 +278,8 @@ div {
 
 .u16 {
     position:absolute;
-    left:136px;
-    top:75px;
+    left:212px;
+    top:106px;
     width:38px;
     height:7px;
     ;
@@ -304,9 +292,9 @@ div {
 
 .u17 {
     position:absolute;
-    left:176px;
-    top:75px;
-    width:38px;
+    left:6px;
+    top:131px;
+    width:58px;
     height:7px;
     ;
     ;
@@ -318,8 +306,8 @@ div {
 
 .u18 {
     position:absolute;
-    left:212px;
-    top:75px;
+    left:136px;
+    top:131px;
     width:38px;
     height:7px;
     ;
@@ -330,140 +318,22 @@ div {
     word-wrap:break-word;
 }
 
-.u19_normal {
-    background-image: url('../tabla_iva_files/u7_normal.png');
-}
-
-.u19_container {
+.u19 {
     position:absolute;
-    left:6px;
-    top:100px;
-    width:19px;
-    height:18px;
-}
-
-#u19_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:25px;
-    height:24px;
+    left:176px;
+    top:131px;
+    width:38px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
 }
 
 .u20 {
     position:absolute;
-    left:2px;
-    top:1px;
-    width:15px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u21 {
-    position:absolute;
-    left:28px;
-    top:106px;
-    width:58px;
-    height:7px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u22 {
-    position:absolute;
-    left:136px;
-    top:106px;
-    width:38px;
-    height:7px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u23 {
-    position:absolute;
-    left:176px;
-    top:106px;
-    width:38px;
-    height:7px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u24 {
-    position:absolute;
-    left:212px;
-    top:106px;
-    width:38px;
-    height:7px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u25 {
-    position:absolute;
-    left:6px;
-    top:131px;
-    width:58px;
-    height:7px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u26 {
-    position:absolute;
-    left:136px;
-    top:131px;
-    width:38px;
-    height:7px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u27 {
-    position:absolute;
-    left:176px;
-    top:131px;
-    width:38px;
-    height:7px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u28 {
-    position:absolute;
     left:212px;
     top:131px;
     width:38px;
@@ -476,11 +346,11 @@ div {
     word-wrap:break-word;
 }
 
-.u29_line {
-    background-image: url('../tabla_iva_files/u29_line.png');
+.u21_line {
+    background-image: url('../tabla_iva_files/u21_line.png');
 }
 
-.u29_line {
+.u21_line {
     position:absolute;
     left:0px;
     top:4px;
@@ -488,7 +358,7 @@ div {
     height:3px;
 }
 
-.u29 {
+.u21 {
     position:absolute;
     left:0px;
     top:220px;
@@ -497,7 +367,7 @@ div {
     
 }
 
-.u30 {
+.u22 {
     position:absolute;
     left:6px;
     top:146px;
@@ -511,55 +381,7 @@ div {
     word-wrap:break-word;
 }
 
-.u31_normal {
-    background-image: url('../tabla_iva_files/u7_normal.png');
-}
-
-.u31_container {
-    position:absolute;
-    left:6px;
-    top:166px;
-    width:19px;
-    height:18px;
-}
-
-#u31_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:25px;
-    height:24px;
-}
-
-.u32 {
-    position:absolute;
-    left:2px;
-    top:1px;
-    width:15px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u33 {
-    position:absolute;
-    left:28px;
-    top:172px;
-    width:58px;
-    height:7px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u34 {
+.u23 {
     position:absolute;
     left:136px;
     top:172px;
@@ -573,7 +395,7 @@ div {
     word-wrap:break-word;
 }
 
-.u35 {
+.u24 {
     position:absolute;
     left:176px;
     top:172px;
@@ -587,7 +409,7 @@ div {
     word-wrap:break-word;
 }
 
-.u36 {
+.u25 {
     position:absolute;
     left:212px;
     top:172px;
@@ -601,285 +423,11 @@ div {
     word-wrap:break-word;
 }
 
-.u37_normal {
-    background-image: url('../tabla_iva_files/u37_normal.png');
+.u26_normal {
+    background-image: url('../tabla_iva_files/u26_normal.png');
 }
 
-.u37_container {
-    position:absolute;
-    left:16px;
-    top:302px;
-    width:9px;
-    height:9px;
-}
-
-#u37_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:15px;
-    height:15px;
-}
-
-.u38 {
-    position:absolute;
-    left:2px;
-    top:-4px;
-    width:5px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u39_normal {
-    background-image: url('../tabla_iva_files/u37_normal.png');
-}
-
-.u39_container {
-    position:absolute;
-    left:36px;
-    top:302px;
-    width:9px;
-    height:9px;
-}
-
-#u39_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:15px;
-    height:15px;
-}
-
-.u40 {
-    position:absolute;
-    left:2px;
-    top:-4px;
-    width:5px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u41_normal {
-    background-image: url('../tabla_iva_files/u37_normal.png');
-}
-
-.u41_container {
-    position:absolute;
-    left:56px;
-    top:302px;
-    width:9px;
-    height:9px;
-}
-
-#u41_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:15px;
-    height:15px;
-}
-
-.u42 {
-    position:absolute;
-    left:2px;
-    top:-4px;
-    width:5px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u43_normal {
-    background-image: url('../tabla_iva_files/u37_normal.png');
-}
-
-.u43_container {
-    position:absolute;
-    left:76px;
-    top:302px;
-    width:9px;
-    height:9px;
-}
-
-#u43_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:15px;
-    height:15px;
-}
-
-.u44 {
-    position:absolute;
-    left:2px;
-    top:-4px;
-    width:5px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u45 {
-    position:absolute;
-    left:18px;
-    top:315px;
-    width:21px;
-    height:7px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u46 {
-    position:absolute;
-    left:38px;
-    top:315px;
-    width:21px;
-    height:7px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u47 {
-    position:absolute;
-    left:58px;
-    top:315px;
-    width:21px;
-    height:7px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u48 {
-    position:absolute;
-    left:78px;
-    top:315px;
-    width:21px;
-    height:7px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u49_normal {
-    background-image: url('../tabla_iva_files/u37_normal.png');
-}
-
-.u49_container {
-    position:absolute;
-    left:17px;
-    top:330px;
-    width:9px;
-    height:9px;
-}
-
-#u49_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:15px;
-    height:15px;
-}
-
-.u50 {
-    position:absolute;
-    left:2px;
-    top:-4px;
-    width:5px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u51 {
-    position:absolute;
-    left:30px;
-    top:334px;
-    width:21px;
-    height:7px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u52_normal {
-    background-image: url('../tabla_iva_files/u52_normal.png');
-}
-
-.u52_container {
-    position:absolute;
-    left:209px;
-    top:303px;
-    width:56px;
-    height:14px;
-}
-
-#u52_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:62px;
-    height:20px;
-}
-
-.u53 {
-    position:absolute;
-    left:2px;
-    top:4px;
-    width:52px;
-    height:7px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u54_normal {
-    background-image: url('../tabla_iva_files/u54_normal.png');
-}
-
-.u54_container {
+.u26_container {
     position:absolute;
     left:224px;
     top:254px;
@@ -887,7 +435,7 @@ div {
     height:35px;
 }
 
-#u54_img {
+#u26_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -895,7 +443,7 @@ div {
     height:35px;
 }
 
-.u55 {
+.u27 {
     position:absolute;
     left:2px;
     top:10px;
@@ -909,42 +457,7 @@ div {
     word-wrap:break-word;
 }
 
-.u56_line {
-    background-image: url('../tabla_iva_files/u56_line.png');
-}
-
-.u56_line {
-    position:absolute;
-    left:0px;
-    top:4px;
-    width:76px;
-    height:3px;
-}
-
-.u56 {
-    position:absolute;
-    left:2px;
-    top:287px;
-    width:76px;
-    height:10px;
-    
-}
-
-.u57 {
-    position:absolute;
-    left:4px;
-    top:276px;
-    width:94px;
-    height:10px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u58 {
+.u28 {
     position:absolute;
     left:6px;
     top:230px;
@@ -958,7 +471,7 @@ div {
     word-wrap:break-word;
 }
 
-.u59 {
+.u29 {
     position:absolute;
     left:136px;
     top:230px;
@@ -972,7 +485,7 @@ div {
     word-wrap:break-word;
 }
 
-.u60 {
+.u30 {
     position:absolute;
     left:176px;
     top:230px;
@@ -986,7 +499,7 @@ div {
     word-wrap:break-word;
 }
 
-.u61 {
+.u31 {
     position:absolute;
     left:212px;
     top:230px;
@@ -1000,11 +513,11 @@ div {
     word-wrap:break-word;
 }
 
-.u62_line {
-    background-image: url('../tabla_iva_files/u62_line.png');
+.u32_line {
+    background-image: url('../tabla_iva_files/u32_line.png');
 }
 
-.u62_line {
+.u32_line {
     position:absolute;
     left:0px;
     top:4px;
@@ -1012,7 +525,7 @@ div {
     height:3px;
 }
 
-.u62 {
+.u32 {
     position:absolute;
     left:0px;
     top:238px;
@@ -1021,31 +534,59 @@ div {
     
 }
 
-.u63_normal {
-    background-image: url('../tabla_iva_files/u63_normal.png');
-}
-
-.u63_container {
+.u33 {
     position:absolute;
-    left:116px;
-    top:16px;
-    width:270px;
-    height:22px;
+    left:6px;
+    top:75px;
+    width:58px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
 }
 
-#u63_img {
+.u34 {
     position:absolute;
-    left:-3px;
-    top:-3px;
-    width:276px;
-    height:28px;
+    left:6px;
+    top:106px;
+    width:58px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
 }
 
-.u64 {
+.u35_normal {
+    background-image: url('../tabla_iva_files/u35_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:197px;
+    top:259px;
+    width:27px;
+    height:24px;
+}
+
+#u35_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:27px;
+    height:24px;
+}
+
+.u36 {
     position:absolute;
     left:2px;
-    top:3px;
-    width:266px;
+    top:4px;
+    width:23px;
     height:16px;
     ;
     ;
@@ -1055,10 +596,79 @@ div {
     word-wrap:break-word;
 }
 
-.u65 {
+.u37 {
     position:absolute;
-    left:248px;
-    top:26px;
+    left:6px;
+    top:172px;
+    width:82px;
+    height:7px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_line {
+    background-image: url('../tabla_iva_files/u38_line.png');
+}
+
+.u38_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:76px;
+    height:3px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:152px;
+    width:76px;
+    height:10px;
+    
+}
+
+.u39_normal {
+    background-image: url('../tabla_iva_files/u39_normal.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:120px;
+    top:15px;
+    width:266px;
+    height:44px;
+}
+
+#u39_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:272px;
+    height:50px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:262px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41 {
+    position:absolute;
+    left:250px;
+    top:45px;
     width:22px;
     height:10px;
     ;
@@ -1069,10 +679,10 @@ div {
     word-wrap:break-word;
 }
 
-.u66 {
+.u42 {
     position:absolute;
-    left:284px;
-    top:26px;
+    left:285px;
+    top:45px;
     width:35px;
     height:10px;
     ;
@@ -1083,10 +693,10 @@ div {
     word-wrap:break-word;
 }
 
-.u67 {
+.u43 {
     position:absolute;
-    left:324px;
-    top:26px;
+    left:325px;
+    top:45px;
     width:35px;
     height:10px;
     ;
@@ -1097,24 +707,92 @@ div {
     word-wrap:break-word;
 }
 
-.u68_line {
-    background-image: url('../tabla_iva_files/u68_line.png');
+.u44_line {
+    background-image: url('../tabla_iva_files/u44_line.png');
 }
 
-.u68_line {
+.u44_line {
     position:absolute;
     left:0px;
     top:4px;
-    width:104px;
+    width:103px;
     height:3px;
 }
 
-.u68 {
+.u44 {
     position:absolute;
-    left:244px;
-    top:31px;
-    width:104px;
+    left:246px;
+    top:50px;
+    width:103px;
     height:10px;
     
+}
+
+.u45_normal {
+    background-image: url('../tabla_iva_files/u45_normal.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:126px;
+    top:25px;
+    width:11px;
+    height:10px;
+}
+
+#u45_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:11px;
+    height:10px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:7px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../tabla_iva_files/u47_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:365px;
+    top:25px;
+    width:10px;
+    height:10px;
+}
+
+#u47_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:10px;
+    height:10px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
 }
 

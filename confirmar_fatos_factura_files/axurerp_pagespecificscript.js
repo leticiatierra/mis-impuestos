@@ -1,21 +1,10 @@
-﻿for(var i = 0; i < 56; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+﻿for(var i = 0; i < 55; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
 
 $axure.eventManager.pageLoad(
 function (e) {
 
 });
-gv_vAlignTable['u51'] = 'center';u55.tabIndex = 0;
-
-u55.style.cursor = 'pointer';
-$axure.eventManager.click('u55', function(e) {
-
-if (true) {
-
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('desplegable_FTU.html');
-
-}
-});
-document.getElementById('u20_img').tabIndex = 0;
+gv_vAlignTable['u50'] = 'top';gv_vAlignTable['u52'] = 'center';gv_vAlignTable['u54'] = 'center';document.getElementById('u20_img').tabIndex = 0;
 
 u20.style.cursor = 'pointer';
 $axure.eventManager.click('u20', function(e) {
@@ -26,7 +15,17 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u21'] = 'center';gv_vAlignTable['u23'] = 'top';gv_vAlignTable['u25'] = 'top';gv_vAlignTable['u26'] = 'top';gv_vAlignTable['u28'] = 'center';gv_vAlignTable['u30'] = 'center';gv_vAlignTable['u32'] = 'center';gv_vAlignTable['u34'] = 'center';gv_vAlignTable['u36'] = 'center';gv_vAlignTable['u37'] = 'top';gv_vAlignTable['u38'] = 'top';gv_vAlignTable['u39'] = 'top';gv_vAlignTable['u1'] = 'top';gv_vAlignTable['u5'] = 'center';u6.tabIndex = 0;
+gv_vAlignTable['u21'] = 'center';gv_vAlignTable['u22'] = 'top';gv_vAlignTable['u24'] = 'center';gv_vAlignTable['u26'] = 'center';gv_vAlignTable['u28'] = 'center';gv_vAlignTable['u30'] = 'center';gv_vAlignTable['u32'] = 'center';gv_vAlignTable['u33'] = 'top';gv_vAlignTable['u34'] = 'top';gv_vAlignTable['u35'] = 'top';gv_vAlignTable['u36'] = 'top';
+u37.style.cursor = 'pointer';
+$axure.eventManager.click('u37', function(e) {
+
+if (true) {
+
+	SetPanelState('u11', 'pd1u11','none','',500,'none','',500);
+
+}
+});
+gv_vAlignTable['u39'] = 'top';gv_vAlignTable['u1'] = 'top';gv_vAlignTable['u5'] = 'center';u6.tabIndex = 0;
 
 u6.style.cursor = 'pointer';
 $axure.eventManager.click('u6', function(e) {
@@ -37,17 +36,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u8'] = 'center';gv_vAlignTable['u40'] = 'top';
-u41.style.cursor = 'pointer';
-$axure.eventManager.click('u41', function(e) {
-
-if (true) {
-
-	SetPanelState('u11', 'pd1u11','none','',500,'none','',500);
-
-}
-});
-gv_vAlignTable['u43'] = 'top';gv_vAlignTable['u44'] = 'top';gv_vAlignTable['u48'] = 'center';gv_vAlignTable['u46'] = 'center';gv_vAlignTable['u10'] = 'center';gv_vAlignTable['u13'] = 'center';
+gv_vAlignTable['u8'] = 'center';gv_vAlignTable['u42'] = 'center';gv_vAlignTable['u40'] = 'top';gv_vAlignTable['u44'] = 'center';gv_vAlignTable['u46'] = 'top';gv_vAlignTable['u49'] = 'center';gv_vAlignTable['u10'] = 'center';gv_vAlignTable['u13'] = 'center';
 u14.style.cursor = 'pointer';
 $axure.eventManager.click('u14', function(e) {
 
