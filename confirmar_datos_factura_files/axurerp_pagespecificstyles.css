@@ -1,0 +1,1714 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#u0 {
+    position:absolute;
+    left:29px;
+    top:187px;
+    width:110px;
+    height:28px;
+    overflow:hidden;
+}
+
+#pd0u0 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:110px;
+    height:28px;
+    
+}
+
+.u1_normal {
+    background-image: url('../confirmar_datos_factura_files/u1_normal.png');
+}
+
+.u1_container {
+    position:absolute;
+    left:13px;
+    top:0px;
+    width:197px;
+    height:420px;
+}
+
+#u1_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:197px;
+    height:420px;
+}
+
+.u2 {
+    position:absolute;
+    left:2px;
+    top:202px;
+    width:193px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3_normal {
+    background-image: url('../confirmar_datos_factura_files/u3_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:23px;
+    top:47px;
+    width:174px;
+    height:266px;
+}
+
+#u3_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:272px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:125px;
+    width:170px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../confirmar_datos_factura_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:181px;
+    top:52px;
+    width:10px;
+    height:10px;
+}
+
+#u5_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:10px;
+    height:10px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:116px;
+    top:67px;
+    width:150px;
+    height:9px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:54px;
+    top:67px;
+    width:39px;
+    height:9px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../confirmar_datos_factura_files/u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:65px;
+    top:52px;
+    width:12px;
+    height:12px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:18px;
+    height:18px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:8px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../confirmar_datos_factura_files/u11_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:130px;
+    top:52px;
+    width:12px;
+    height:12px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:18px;
+    height:18px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:8px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_line {
+    background-image: url('../confirmar_datos_factura_files/u13_line.png');
+}
+
+.u13_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:53px;
+    height:3px;
+}
+
+.u13 {
+    position:absolute;
+    left:77px;
+    top:53px;
+    width:53px;
+    height:10px;
+    
+}
+
+.u14 {
+    position:absolute;
+    left:36px;
+    top:87px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:88px;
+    top:291px;
+    width:100px;
+    height:18px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+#u16 {
+    position:absolute;
+    left:36px;
+    top:117px;
+    width:140px;
+    height:153px;
+    overflow:hidden;
+}
+
+#pd3u16 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:140px;
+    height:153px;
+    
+}
+
+.u17_normal {
+    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:1px;
+    top:0px;
+    width:139px;
+    height:24px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:145px;
+    height:30px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:135px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19 {
+    position:absolute;
+    left:6px;
+    top:5px;
+    width:86px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:1px;
+    top:26px;
+    width:139px;
+    height:24px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:145px;
+    height:30px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:135px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:6px;
+    top:33px;
+    width:80px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:1px;
+    top:52px;
+    width:139px;
+    height:24px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:145px;
+    height:30px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:135px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:126px;
+    top:36px;
+    width:6px;
+    height:7px;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+#u25_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:6px;
+    height:7px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:2px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:6px;
+    top:57px;
+    width:90px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../confirmar_datos_factura_files/u28_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:1px;
+    top:77px;
+    width:139px;
+    height:74px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:145px;
+    height:80px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:29px;
+    width:135px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:126px;
+    top:141px;
+    width:6px;
+    height:7px;-webkit-transform: rotate(270deg);
+    -moz-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+
+}
+
+#u30_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:6px;
+    height:7px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:2px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:126px;
+    top:8px;
+    width:6px;
+    height:7px;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+#u32_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:6px;
+    height:7px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:2px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:6px;
+    top:81px;
+    width:90px;
+    height:11px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:6px;
+    top:102px;
+    width:90px;
+    height:11px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36 {
+    position:absolute;
+    left:6px;
+    top:123px;
+    width:52px;
+    height:11px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:81px;
+    top:81px;
+    width:52px;
+    height:11px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:81px;
+    top:95px;
+    width:52px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 7px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+#pd2u16 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:140px;
+    height:153px;
+    
+}
+
+.u39_normal {
+    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:1px;
+    top:0px;
+    width:139px;
+    height:24px;
+}
+
+#u39_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:145px;
+    height:30px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:135px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41 {
+    position:absolute;
+    left:6px;
+    top:5px;
+    width:86px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_normal {
+    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:1px;
+    top:26px;
+    width:139px;
+    height:24px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:145px;
+    height:30px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:135px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44 {
+    position:absolute;
+    left:6px;
+    top:33px;
+    width:80px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45_normal {
+    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:1px;
+    top:115px;
+    width:139px;
+    height:24px;
+}
+
+#u45_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:145px;
+    height:30px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:135px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:126px;
+    top:125px;
+    width:6px;
+    height:7px;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+#u47_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:6px;
+    height:7px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:2px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49 {
+    position:absolute;
+    left:6px;
+    top:121px;
+    width:90px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../confirmar_datos_factura_files/u50_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:1px;
+    top:52px;
+    width:139px;
+    height:64px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:145px;
+    height:70px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:135px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:126px;
+    top:105px;
+    width:6px;
+    height:7px;-webkit-transform: rotate(270deg);
+    -moz-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+
+}
+
+#u52_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:6px;
+    height:7px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:2px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_normal {
+    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:126px;
+    top:8px;
+    width:6px;
+    height:7px;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+#u54_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:6px;
+    height:7px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:2px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56 {
+    position:absolute;
+    left:6px;
+    top:56px;
+    width:150px;
+    height:11px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57 {
+    position:absolute;
+    left:5px;
+    top:74px;
+    width:150px;
+    height:11px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58 {
+    position:absolute;
+    left:10px;
+    top:92px;
+    width:22px;
+    height:11px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd1u16 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:140px;
+    height:153px;
+    
+}
+
+.u59_normal {
+    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:1px;
+    top:0px;
+    width:139px;
+    height:24px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:145px;
+    height:30px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:135px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61 {
+    position:absolute;
+    left:6px;
+    top:5px;
+    width:86px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:1px;
+    top:89px;
+    width:139px;
+    height:24px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:145px;
+    height:30px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:135px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:126px;
+    top:99px;
+    width:6px;
+    height:7px;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+#u64_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:6px;
+    height:7px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:2px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66 {
+    position:absolute;
+    left:6px;
+    top:95px;
+    width:80px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67_normal {
+    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:1px;
+    top:115px;
+    width:139px;
+    height:24px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:145px;
+    height:30px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:135px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_normal {
+    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:126px;
+    top:125px;
+    width:6px;
+    height:7px;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+#u69_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:6px;
+    height:7px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:2px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71 {
+    position:absolute;
+    left:6px;
+    top:121px;
+    width:90px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../confirmar_datos_factura_files/u50_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:0px;
+    top:25px;
+    width:139px;
+    height:64px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:145px;
+    height:70px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:135px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74 {
+    position:absolute;
+    left:9px;
+    top:34px;
+    width:83px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u75_normal {
+    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+}
+
+.u75_container {
+    position:absolute;
+    left:126px;
+    top:78px;
+    width:6px;
+    height:7px;-webkit-transform: rotate(270deg);
+    -moz-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+
+}
+
+#u75_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:6px;
+    height:7px;
+}
+
+.u76 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:2px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u16 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:140px;
+    height:153px;
+    
+}
+
+.u77_normal {
+    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+}
+
+.u77_container {
+    position:absolute;
+    left:1px;
+    top:0px;
+    width:139px;
+    height:24px;
+}
+
+#u77_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:145px;
+    height:30px;
+}
+
+.u78 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:135px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79_normal {
+    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+}
+
+.u79_container {
+    position:absolute;
+    left:126px;
+    top:9px;
+    width:6px;
+    height:7px;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+#u79_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:6px;
+    height:7px;
+}
+
+.u80 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:2px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81 {
+    position:absolute;
+    left:6px;
+    top:5px;
+    width:86px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:1px;
+    top:26px;
+    width:139px;
+    height:24px;
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:145px;
+    height:30px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:135px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:126px;
+    top:36px;
+    width:6px;
+    height:7px;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+#u84_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:6px;
+    height:7px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:2px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86 {
+    position:absolute;
+    left:6px;
+    top:32px;
+    width:80px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u87_normal {
+    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+}
+
+.u87_container {
+    position:absolute;
+    left:1px;
+    top:52px;
+    width:139px;
+    height:24px;
+}
+
+#u87_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:145px;
+    height:30px;
+}
+
+.u88 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:135px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89_normal {
+    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+}
+
+.u89_container {
+    position:absolute;
+    left:126px;
+    top:62px;
+    width:6px;
+    height:7px;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+#u89_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:6px;
+    height:7px;
+}
+
+.u90 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:2px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91 {
+    position:absolute;
+    left:6px;
+    top:58px;
+    width:90px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../confirmar_datos_factura_files/u92_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:31px;
+    top:52px;
+    width:11px;
+    height:10px;
+}
+
+#u92_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:11px;
+    height:10px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:7px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u94 {
+    position:absolute;
+    left:29px;
+    top:47px;
+    width:22px;
+    height:17px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u95 {
+    position:absolute;
+    left:175px;
+    top:47px;
+    width:24px;
+    height:17px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u97 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:118px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../confirmar_datos_factura_files/u98_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:380px;
+    top:352px;
+    width:121px;
+    height:75px;
+}
+
+#u98_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:121px;
+    height:75px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:117px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

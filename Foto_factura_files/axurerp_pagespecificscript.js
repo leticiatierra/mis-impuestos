@@ -33,7 +33,7 @@ $axure.eventManager.click('u17', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('confirmar_fatos_factura.html');
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('confirmar_datos_factura.html');
 
 }
 });

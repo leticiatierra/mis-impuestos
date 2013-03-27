@@ -206,3 +206,29 @@ div {
     word-wrap:break-word;
 }
 
+#u11 {
+    position:absolute;
+    left:27px;
+    top:50px;
+    width:22px;
+    height:17px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u12 {
+    position:absolute;
+    left:173px;
+    top:50px;
+    width:24px;
+    height:17px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+

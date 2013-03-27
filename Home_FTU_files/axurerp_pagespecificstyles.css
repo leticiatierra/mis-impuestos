@@ -62,10 +62,10 @@ div {
 
 .u2_container {
     position:absolute;
-    left:23px;
-    top:54px;
+    left:24px;
+    top:51px;
     width:174px;
-    height:266px;
+    height:268px;
 }
 
 #u2_img {
@@ -73,13 +73,13 @@ div {
     left:-3px;
     top:-3px;
     width:180px;
-    height:272px;
+    height:274px;
 }
 
 .u3 {
     position:absolute;
     left:2px;
-    top:125px;
+    top:126px;
     width:170px;
     height:16px;
     ;
@@ -90,58 +90,690 @@ div {
     word-wrap:break-word;
 }
 
-.u4 {
+#u4 {
     position:absolute;
-    left:123px;
-    top:228px;
-    width:150px;
-    height:9px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
+    left:24px;
+    top:73px;
+    width:175px;
+    height:247px;
+    overflow:hidden;
 }
 
-.u5 {
+#pd4u4 {
     position:absolute;
-    left:61px;
-    top:228px;
-    width:39px;
-    height:9px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
+    left:0px;
+    top:0px;
+    width:175px;
+    height:247px;
+    
 }
 
-.u6_normal {
-    background-image: url('../Home_FTU_files/u6_normal.png');
+.u5_normal {
+    background-image: url('../Home_FTU_files/u5_normal.png');
 }
 
-.u6_container {
+.u5_container {
     position:absolute;
-    left:23px;
-    top:54px;
-    width:174px;
-    height:20px;
+    left:4px;
+    top:0px;
+    width:169px;
+    height:246px;
 }
 
-#u6_img {
+#u5_img {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:180px;
-    height:26px;
+    width:175px;
+    height:252px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:115px;
+    width:165px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
 }
 
 .u7 {
     position:absolute;
+    left:14px;
+    top:62px;
+    width:150px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../Home_FTU_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:21px;
+    top:11px;
+    width:34px;
+    height:34px;-webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+
+}
+
+#u8_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:34px;
+    height:34px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:30px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:14px;
+    top:135px;
+    width:143px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u11 {
+    position:absolute;
+    left:64px;
+    top:197px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+#pd3u4 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:175px;
+    height:247px;
+    
+}
+
+.u12_normal {
+    background-image: url('../Home_FTU_files/u5_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:169px;
+    height:246px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:175px;
+    height:252px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:115px;
+    width:165px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../Home_FTU_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:12px;
+    top:100px;
+    width:154px;
+    height:137px;
+}
+
+#u14_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:154px;
+    height:137px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:60px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:14px;
+    top:41px;
+    width:150px;
+    height:45px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../Home_FTU_files/u8_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:130px;
+    top:7px;
+    width:34px;
+    height:34px;-webkit-transform: rotate(270deg);
+    -moz-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+
+}
+
+#u17_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:34px;
+    height:34px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:30px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../Home_FTU_files/u19_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:72px;
+    top:224px;
+    width:13px;
+    height:38px;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+#u19_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:13px;
+    height:38px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:9px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd2u4 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:175px;
+    height:247px;
+    
+}
+
+.u21_normal {
+    background-image: url('../Home_FTU_files/u5_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:169px;
+    height:246px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:175px;
+    height:252px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:115px;
+    width:165px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../Home_FTU_files/u23_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:20px;
+    top:52px;
+    width:110px;
+    height:161px;
+}
+
+#u23_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:110px;
+    height:161px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:72px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25 {
+    position:absolute;
+    left:6px;
+    top:6px;
+    width:153px;
+    height:46px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_normal {
+    background-image: url('../Home_FTU_files/u19_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:68px;
+    top:210px;
+    width:13px;
+    height:38px;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+#u26_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:13px;
+    height:38px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:9px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd1u4 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:175px;
+    height:247px;
+    
+}
+
+.u28_normal {
+    background-image: url('../Home_FTU_files/u5_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:169px;
+    height:246px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:175px;
+    height:252px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:115px;
+    width:165px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../Home_FTU_files/u30_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:64px;
+    top:35px;
+    width:26px;
+    height:20px;
+}
+
+#u30_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:20px;
+}
+
+.u31 {
+    position:absolute;
     left:2px;
     top:2px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:0px;
+    top:72px;
+    width:153px;
+    height:46px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_normal {
+    background-image: url('../Home_FTU_files/u19_normal.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:70px;
+    top:209px;
+    width:13px;
+    height:38px;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+#u33_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:13px;
+    height:38px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:9px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u4 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:175px;
+    height:247px;
+    
+}
+
+.u35_normal {
+    background-image: url('../Home_FTU_files/u5_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:169px;
+    height:246px;
+}
+
+#u35_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:175px;
+    height:252px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:115px;
+    width:165px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:14px;
+    top:64px;
+    width:150px;
+    height:92px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../Home_FTU_files/u19_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:74px;
+    top:209px;
+    width:13px;
+    height:38px;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+#u38_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:13px;
+    height:38px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:9px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../Home_FTU_files/u40_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:24px;
+    top:51px;
+    width:174px;
+    height:22px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:28px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:3px;
     width:170px;
     height:16px;
     ;
@@ -152,94 +784,31 @@ div {
     word-wrap:break-word;
 }
 
-.u8_line {
-    background-image: url('../Home_FTU_files/u8_line.png');
+.u42_normal {
+    background-image: url('../Home_FTU_files/u42_normal.png');
 }
 
-.u8_line {
+.u42_container {
+    position:absolute;
+    left:32px;
+    top:57px;
+    width:11px;
+    height:10px;
+}
+
+#u42_img {
     position:absolute;
     left:0px;
-    top:4px;
-    width:8px;
-    height:3px;
-}
-
-.u8 {
-    position:absolute;
-    left:179px;
-    top:54px;
-    width:8px;
+    top:0px;
+    width:11px;
     height:10px;
-    
 }
 
-.u9_line {
-    background-image: url('../Home_FTU_files/u9_line.png');
-}
-
-.u9_line {
-    position:absolute;
-    left:0px;
-    top:4px;
-    width:8px;
-    height:3px;
-}
-
-.u9 {
-    position:absolute;
-    left:179px;
-    top:59px;
-    width:8px;
-    height:10px;
-    
-}
-
-.u10_line {
-    background-image: url('../Home_FTU_files/u10_line.png');
-}
-
-.u10_line {
-    position:absolute;
-    left:0px;
-    top:4px;
-    width:8px;
-    height:3px;
-}
-
-.u10 {
-    position:absolute;
-    left:179px;
-    top:64px;
-    width:8px;
-    height:10px;
-    
-}
-
-.u11_normal {
-    background-image: url('../Home_FTU_files/u11_normal.png');
-}
-
-.u11_container {
-    position:absolute;
-    left:43px;
-    top:119px;
-    width:138px;
-    height:80px;
-}
-
-#u11_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:144px;
-    height:86px;
-}
-
-.u12 {
+.u43 {
     position:absolute;
     left:2px;
-    top:32px;
-    width:134px;
+    top:-3px;
+    width:7px;
     height:16px;
     ;
     ;
@@ -249,105 +818,37 @@ div {
     word-wrap:break-word;
 }
 
-.u13_normal {
-    background-image: url('../Home_FTU_files/u13_normal.png');
+.u44_normal {
+    background-image: url('../Home_FTU_files/u44_normal.png');
 }
 
-.u13_container {
+.u44_container {
     position:absolute;
-    left:72px;
-    top:213px;
-    width:12px;
-    height:12px;
-}
-
-#u13_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:18px;
-    height:18px;
-}
-
-.u14 {
-    position:absolute;
-    left:2px;
-    top:1px;
-    width:8px;
+    left:182px;
+    top:57px;
+    width:10px;
     height:10px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
 }
 
-.u15_normal {
-    background-image: url('../Home_FTU_files/u13_normal.png');
-}
-
-.u15_container {
-    position:absolute;
-    left:137px;
-    top:213px;
-    width:12px;
-    height:12px;
-}
-
-#u15_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:18px;
-    height:18px;
-}
-
-.u16 {
-    position:absolute;
-    left:2px;
-    top:1px;
-    width:8px;
-    height:10px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u17_line {
-    background-image: url('../Home_FTU_files/u17_line.png');
-}
-
-.u17_line {
+#u44_img {
     position:absolute;
     left:0px;
-    top:4px;
-    width:53px;
-    height:3px;
-}
-
-.u17 {
-    position:absolute;
-    left:84px;
-    top:214px;
-    width:53px;
+    top:0px;
+    width:10px;
     height:10px;
-    
 }
 
-#u18 {
+.u45 {
     position:absolute;
-    left:160px;
-    top:39px;
-    width:50px;
-    height:50px;
+    left:2px;
+    top:-3px;
+    width:6px;
+    height:16px;
     ;
     ;
     ;
-    background-image: url('../resources/images/transparent.gif');
-    overflow:hidden;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
 }
 
