@@ -1,4 +1,4 @@
-﻿for(var i = 0; i < 100; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+﻿for(var i = 0; i < 98; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
 
 $axure.eventManager.pageLoad(
 function (e) {
@@ -91,7 +91,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u97'] = 'top';gv_vAlignTable['u99'] = 'center';gv_vAlignTable['u40'] = 'center';gv_vAlignTable['u41'] = 'top';gv_vAlignTable['u43'] = 'center';gv_vAlignTable['u44'] = 'top';document.getElementById('u45_img').tabIndex = 0;
+gv_vAlignTable['u97'] = 'top';gv_vAlignTable['u40'] = 'center';gv_vAlignTable['u41'] = 'top';gv_vAlignTable['u43'] = 'center';gv_vAlignTable['u44'] = 'top';document.getElementById('u45_img').tabIndex = 0;
 
 u45.style.cursor = 'pointer';
 $axure.eventManager.click('u45', function(e) {
