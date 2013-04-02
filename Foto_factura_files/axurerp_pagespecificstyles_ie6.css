@@ -8,24 +8,19 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Foto_factura_files/u2_normal.png");
 }
 
-* html .u5_normal {
+* html .u7_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Foto_factura_files/u5_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Foto_factura_files/u7_normal.png");
 }
 
-* html .u7_line {
+* html .u9_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Foto_factura_files/u7_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Foto_factura_files/u9_normal.png");
 }
 
-* html .u8_line {
+* html .u11_line {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Foto_factura_files/u8_line.png");
-}
-
-* html .u9_line {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Foto_factura_files/u9_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Foto_factura_files/u11_line.png");
 }
 
 * html .u12_normal {
@@ -35,21 +30,16 @@
 
 * html .u14_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Foto_factura_files/u14_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Foto_factura_files/u12_normal.png");
 }
 
-* html .u16_line {
+* html .u18_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Foto_factura_files/u16_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Foto_factura_files/u18_normal.png");
 }
 
-* html .u17_normal {
+* html .u20_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Foto_factura_files/u17_normal.png");
-}
-
-* html .u19_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Foto_factura_files/u17_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Foto_factura_files/u20_normal.png");
 }
 

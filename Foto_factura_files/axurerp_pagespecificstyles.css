@@ -108,107 +108,10 @@ div {
     
 }
 
-.u5_normal {
-    background-image: url('../Foto_factura_files/u5_normal.png');
-}
-
-.u5_container {
+.u5 {
     position:absolute;
-    left:2px;
-    top:0px;
-    width:174px;
-    height:20px;
-}
-
-#u5_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:180px;
-    height:26px;
-}
-
-.u6 {
-    position:absolute;
-    left:2px;
-    top:2px;
-    width:170px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u7_line {
-    background-image: url('../Foto_factura_files/u7_line.png');
-}
-
-.u7_line {
-    position:absolute;
-    left:0px;
-    top:4px;
-    width:8px;
-    height:3px;
-}
-
-.u7 {
-    position:absolute;
-    left:158px;
-    top:0px;
-    width:8px;
-    height:10px;
-    
-}
-
-.u8_line {
-    background-image: url('../Foto_factura_files/u8_line.png');
-}
-
-.u8_line {
-    position:absolute;
-    left:0px;
-    top:4px;
-    width:8px;
-    height:3px;
-}
-
-.u8 {
-    position:absolute;
-    left:158px;
-    top:5px;
-    width:8px;
-    height:10px;
-    
-}
-
-.u9_line {
-    background-image: url('../Foto_factura_files/u9_line.png');
-}
-
-.u9_line {
-    position:absolute;
-    left:0px;
-    top:4px;
-    width:8px;
-    height:3px;
-}
-
-.u9 {
-    position:absolute;
-    left:158px;
-    top:10px;
-    width:8px;
-    height:10px;
-    
-}
-
-.u10 {
-    position:absolute;
-    left:100px;
-    top:254px;
+    left:96px;
+    top:25px;
     width:150px;
     height:9px;
     ;
@@ -219,10 +122,10 @@ div {
     word-wrap:break-word;
 }
 
-.u11 {
+.u6 {
     position:absolute;
-    left:38px;
-    top:254px;
+    left:34px;
+    top:25px;
     width:39px;
     height:9px;
     ;
@@ -233,19 +136,19 @@ div {
     word-wrap:break-word;
 }
 
-.u12_normal {
-    background-image: url('../Foto_factura_files/u12_normal.png');
+.u7_normal {
+    background-image: url('../Foto_factura_files/u7_normal.png');
 }
 
-.u12_container {
+.u7_container {
     position:absolute;
-    left:49px;
-    top:239px;
+    left:45px;
+    top:10px;
     width:12px;
     height:12px;
 }
 
-#u12_img {
+#u7_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -253,7 +156,7 @@ div {
     height:18px;
 }
 
-.u13 {
+.u8 {
     position:absolute;
     left:2px;
     top:1px;
@@ -267,19 +170,19 @@ div {
     word-wrap:break-word;
 }
 
-.u14_normal {
-    background-image: url('../Foto_factura_files/u14_normal.png');
+.u9_normal {
+    background-image: url('../Foto_factura_files/u9_normal.png');
 }
 
-.u14_container {
+.u9_container {
     position:absolute;
-    left:114px;
-    top:239px;
+    left:110px;
+    top:10px;
     width:12px;
     height:12px;
 }
 
-#u14_img {
+#u9_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -287,7 +190,7 @@ div {
     height:18px;
 }
 
-.u15 {
+.u10 {
     position:absolute;
     left:2px;
     top:1px;
@@ -301,11 +204,11 @@ div {
     word-wrap:break-word;
 }
 
-.u16_line {
-    background-image: url('../Foto_factura_files/u16_line.png');
+.u11_line {
+    background-image: url('../Foto_factura_files/u11_line.png');
 }
 
-.u16_line {
+.u11_line {
     position:absolute;
     left:0px;
     top:4px;
@@ -313,20 +216,20 @@ div {
     height:3px;
 }
 
-.u16 {
+.u11 {
     position:absolute;
-    left:61px;
-    top:240px;
+    left:57px;
+    top:11px;
     width:53px;
     height:10px;
     
 }
 
-.u17_normal {
-    background-image: url('../Foto_factura_files/u17_normal.png');
+.u12_normal {
+    background-image: url('../Foto_factura_files/u12_normal.png');
 }
 
-.u17_container {
+.u12_container {
     position:absolute;
     left:30px;
     top:62px;
@@ -334,7 +237,7 @@ div {
     height:25px;
 }
 
-#u17_img {
+#u12_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -342,7 +245,7 @@ div {
     height:31px;
 }
 
-.u18 {
+.u13 {
     position:absolute;
     left:2px;
     top:7px;
@@ -356,11 +259,11 @@ div {
     word-wrap:break-word;
 }
 
-.u19_normal {
-    background-image: url('../Foto_factura_files/u17_normal.png');
+.u14_normal {
+    background-image: url('../Foto_factura_files/u12_normal.png');
 }
 
-.u19_container {
+.u14_container {
     position:absolute;
     left:30px;
     top:110px;
@@ -368,7 +271,7 @@ div {
     height:25px;
 }
 
-#u19_img {
+#u14_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -376,12 +279,106 @@ div {
     height:31px;
 }
 
-.u20 {
+.u15 {
     position:absolute;
     left:2px;
     top:2px;
     width:96px;
     height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u16 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:22px;
+    height:17px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u17 {
+    position:absolute;
+    left:148px;
+    top:7px;
+    width:24px;
+    height:17px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u18_normal {
+    background-image: url('../Foto_factura_files/u18_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:152px;
+    top:10px;
+    width:10px;
+    height:10px;
+}
+
+#u18_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:10px;
+    height:10px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:6px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../Foto_factura_files/u20_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:11px;
+    height:10px;
+}
+
+#u20_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:11px;
+    height:10px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:7px;
+    height:16px;
     ;
     ;
     ;
@@ -399,7 +396,7 @@ div {
     
 }
 
-.u21_container {
+.u22_container {
     position:absolute;
     left:22px;
     top:49px;
@@ -407,7 +404,7 @@ div {
     height:204px;
 }
 
-#u21_img {
+#u22_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -415,7 +412,7 @@ div {
     height:204px;
 }
 
-.u22 {
+.u23 {
     position:absolute;
     left:2px;
     top:94px;
