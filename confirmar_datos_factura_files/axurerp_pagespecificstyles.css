@@ -22,29 +22,11 @@ div {
     background-color: transparent;
 }
 
-#u0 {
-    position:absolute;
-    left:29px;
-    top:187px;
-    width:110px;
-    height:28px;
-    overflow:hidden;
+.u0_normal {
+    background-image: url('../confirmar_datos_factura_files/u0_normal.png');
 }
 
-#pd0u0 {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:110px;
-    height:28px;
-    
-}
-
-.u1_normal {
-    background-image: url('../confirmar_datos_factura_files/u1_normal.png');
-}
-
-.u1_container {
+.u0_container {
     position:absolute;
     left:13px;
     top:0px;
@@ -52,7 +34,7 @@ div {
     height:420px;
 }
 
-#u1_img {
+#u0_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -60,7 +42,7 @@ div {
     height:420px;
 }
 
-.u2 {
+.u1 {
     position:absolute;
     left:2px;
     top:202px;
@@ -74,11 +56,11 @@ div {
     word-wrap:break-word;
 }
 
-.u3_normal {
-    background-image: url('../confirmar_datos_factura_files/u3_normal.png');
+.u2_normal {
+    background-image: url('../confirmar_datos_factura_files/u2_normal.png');
 }
 
-.u3_container {
+.u2_container {
     position:absolute;
     left:23px;
     top:47px;
@@ -86,7 +68,7 @@ div {
     height:266px;
 }
 
-#u3_img {
+#u2_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -94,7 +76,7 @@ div {
     height:272px;
 }
 
-.u4 {
+.u3 {
     position:absolute;
     left:2px;
     top:125px;
@@ -108,11 +90,11 @@ div {
     word-wrap:break-word;
 }
 
-.u5_normal {
-    background-image: url('../confirmar_datos_factura_files/u5_normal.png');
+.u4_normal {
+    background-image: url('../confirmar_datos_factura_files/u4_normal.png');
 }
 
-.u5_container {
+.u4_container {
     position:absolute;
     left:181px;
     top:52px;
@@ -120,7 +102,7 @@ div {
     height:10px;
 }
 
-#u5_img {
+#u4_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -128,7 +110,7 @@ div {
     height:10px;
 }
 
-.u6 {
+.u5 {
     position:absolute;
     left:2px;
     top:-3px;
@@ -142,7 +124,7 @@ div {
     word-wrap:break-word;
 }
 
-.u7 {
+.u6 {
     position:absolute;
     left:116px;
     top:67px;
@@ -156,7 +138,7 @@ div {
     word-wrap:break-word;
 }
 
-.u8 {
+.u7 {
     position:absolute;
     left:54px;
     top:67px;
@@ -170,11 +152,11 @@ div {
     word-wrap:break-word;
 }
 
-.u9_normal {
-    background-image: url('../confirmar_datos_factura_files/u9_normal.png');
+.u8_normal {
+    background-image: url('../confirmar_datos_factura_files/u8_normal.png');
 }
 
-.u9_container {
+.u8_container {
     position:absolute;
     left:65px;
     top:52px;
@@ -182,7 +164,7 @@ div {
     height:12px;
 }
 
-#u9_img {
+#u8_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -190,7 +172,7 @@ div {
     height:18px;
 }
 
-.u10 {
+.u9 {
     position:absolute;
     left:2px;
     top:1px;
@@ -204,11 +186,11 @@ div {
     word-wrap:break-word;
 }
 
-.u11_normal {
-    background-image: url('../confirmar_datos_factura_files/u11_normal.png');
+.u10_normal {
+    background-image: url('../confirmar_datos_factura_files/u10_normal.png');
 }
 
-.u11_container {
+.u10_container {
     position:absolute;
     left:130px;
     top:52px;
@@ -216,7 +198,7 @@ div {
     height:12px;
 }
 
-#u11_img {
+#u10_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -224,7 +206,7 @@ div {
     height:18px;
 }
 
-.u12 {
+.u11 {
     position:absolute;
     left:2px;
     top:1px;
@@ -238,11 +220,11 @@ div {
     word-wrap:break-word;
 }
 
-.u13_line {
-    background-image: url('../confirmar_datos_factura_files/u13_line.png');
+.u12_line {
+    background-image: url('../confirmar_datos_factura_files/u12_line.png');
 }
 
-.u13_line {
+.u12_line {
     position:absolute;
     left:0px;
     top:4px;
@@ -250,7 +232,7 @@ div {
     height:3px;
 }
 
-.u13 {
+.u12 {
     position:absolute;
     left:77px;
     top:53px;
@@ -259,7 +241,7 @@ div {
     
 }
 
-.u14 {
+.u13 {
     position:absolute;
     left:36px;
     top:87px;
@@ -273,7 +255,7 @@ div {
     word-wrap:break-word;
 }
 
-.u15 {
+.u14 {
     position:absolute;
     left:88px;
     top:291px;
@@ -291,7 +273,7 @@ div {
     
 }
 
-#u16 {
+#u15 {
     position:absolute;
     left:36px;
     top:117px;
@@ -300,7 +282,7 @@ div {
     overflow:hidden;
 }
 
-#pd3u16 {
+#pd3u15 {
     position:absolute;
     left:0px;
     top:0px;
@@ -309,11 +291,11 @@ div {
     
 }
 
-.u17_normal {
-    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+.u16_normal {
+    background-image: url('../confirmar_datos_factura_files/u16_normal.png');
 }
 
-.u17_container {
+.u16_container {
     position:absolute;
     left:1px;
     top:0px;
@@ -321,7 +303,7 @@ div {
     height:24px;
 }
 
-#u17_img {
+#u16_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -329,7 +311,7 @@ div {
     height:30px;
 }
 
-.u18 {
+.u17 {
     position:absolute;
     left:2px;
     top:4px;
@@ -343,7 +325,7 @@ div {
     word-wrap:break-word;
 }
 
-.u19 {
+.u18 {
     position:absolute;
     left:6px;
     top:5px;
@@ -357,11 +339,11 @@ div {
     word-wrap:break-word;
 }
 
-.u20_normal {
-    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+.u19_normal {
+    background-image: url('../confirmar_datos_factura_files/u16_normal.png');
 }
 
-.u20_container {
+.u19_container {
     position:absolute;
     left:1px;
     top:26px;
@@ -369,7 +351,7 @@ div {
     height:24px;
 }
 
-#u20_img {
+#u19_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -377,7 +359,7 @@ div {
     height:30px;
 }
 
-.u21 {
+.u20 {
     position:absolute;
     left:2px;
     top:4px;
@@ -391,7 +373,7 @@ div {
     word-wrap:break-word;
 }
 
-.u22 {
+.u21 {
     position:absolute;
     left:6px;
     top:33px;
@@ -405,11 +387,11 @@ div {
     word-wrap:break-word;
 }
 
-.u23_normal {
-    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+.u22_normal {
+    background-image: url('../confirmar_datos_factura_files/u16_normal.png');
 }
 
-.u23_container {
+.u22_container {
     position:absolute;
     left:1px;
     top:52px;
@@ -417,7 +399,7 @@ div {
     height:24px;
 }
 
-#u23_img {
+#u22_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -425,7 +407,7 @@ div {
     height:30px;
 }
 
-.u24 {
+.u23 {
     position:absolute;
     left:2px;
     top:4px;
@@ -439,11 +421,11 @@ div {
     word-wrap:break-word;
 }
 
-.u25_normal {
-    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+.u24_normal {
+    background-image: url('../confirmar_datos_factura_files/u24_normal.png');
 }
 
-.u25_container {
+.u24_container {
     position:absolute;
     left:126px;
     top:36px;
@@ -455,7 +437,7 @@ div {
 
 }
 
-#u25_img {
+#u24_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -463,7 +445,7 @@ div {
     height:7px;
 }
 
-.u26 {
+.u25 {
     position:absolute;
     left:2px;
     top:-4px;
@@ -477,7 +459,7 @@ div {
     word-wrap:break-word;
 }
 
-.u27 {
+.u26 {
     position:absolute;
     left:6px;
     top:57px;
@@ -491,11 +473,11 @@ div {
     word-wrap:break-word;
 }
 
-.u28_normal {
-    background-image: url('../confirmar_datos_factura_files/u28_normal.png');
+.u27_normal {
+    background-image: url('../confirmar_datos_factura_files/u27_normal.png');
 }
 
-.u28_container {
+.u27_container {
     position:absolute;
     left:1px;
     top:77px;
@@ -503,7 +485,7 @@ div {
     height:74px;
 }
 
-#u28_img {
+#u27_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -511,7 +493,7 @@ div {
     height:80px;
 }
 
-.u29 {
+.u28 {
     position:absolute;
     left:2px;
     top:29px;
@@ -525,11 +507,11 @@ div {
     word-wrap:break-word;
 }
 
-.u30_normal {
-    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+.u29_normal {
+    background-image: url('../confirmar_datos_factura_files/u24_normal.png');
 }
 
-.u30_container {
+.u29_container {
     position:absolute;
     left:126px;
     top:141px;
@@ -541,7 +523,7 @@ div {
 
 }
 
-#u30_img {
+#u29_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -549,7 +531,7 @@ div {
     height:7px;
 }
 
-.u31 {
+.u30 {
     position:absolute;
     left:2px;
     top:-4px;
@@ -563,11 +545,11 @@ div {
     word-wrap:break-word;
 }
 
-.u32_normal {
-    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+.u31_normal {
+    background-image: url('../confirmar_datos_factura_files/u24_normal.png');
 }
 
-.u32_container {
+.u31_container {
     position:absolute;
     left:126px;
     top:8px;
@@ -579,7 +561,7 @@ div {
 
 }
 
-#u32_img {
+#u31_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -587,7 +569,7 @@ div {
     height:7px;
 }
 
-.u33 {
+.u32 {
     position:absolute;
     left:2px;
     top:-4px;
@@ -601,7 +583,7 @@ div {
     word-wrap:break-word;
 }
 
-.u34 {
+.u33 {
     position:absolute;
     left:6px;
     top:81px;
@@ -615,7 +597,7 @@ div {
     word-wrap:break-word;
 }
 
-.u35 {
+.u34 {
     position:absolute;
     left:6px;
     top:102px;
@@ -629,7 +611,7 @@ div {
     word-wrap:break-word;
 }
 
-.u36 {
+.u35 {
     position:absolute;
     left:6px;
     top:123px;
@@ -643,7 +625,7 @@ div {
     word-wrap:break-word;
 }
 
-.u37 {
+.u36 {
     position:absolute;
     left:81px;
     top:81px;
@@ -657,7 +639,7 @@ div {
     word-wrap:break-word;
 }
 
-.u38 {
+.u37 {
     position:absolute;
     left:81px;
     top:95px;
@@ -675,7 +657,7 @@ div {
     
 }
 
-#pd2u16 {
+#pd2u15 {
     position:absolute;
     left:0px;
     top:0px;
@@ -684,11 +666,11 @@ div {
     
 }
 
-.u39_normal {
-    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+.u38_normal {
+    background-image: url('../confirmar_datos_factura_files/u16_normal.png');
 }
 
-.u39_container {
+.u38_container {
     position:absolute;
     left:1px;
     top:0px;
@@ -696,7 +678,7 @@ div {
     height:24px;
 }
 
-#u39_img {
+#u38_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -704,7 +686,7 @@ div {
     height:30px;
 }
 
-.u40 {
+.u39 {
     position:absolute;
     left:2px;
     top:4px;
@@ -718,7 +700,7 @@ div {
     word-wrap:break-word;
 }
 
-.u41 {
+.u40 {
     position:absolute;
     left:6px;
     top:5px;
@@ -732,11 +714,11 @@ div {
     word-wrap:break-word;
 }
 
-.u42_normal {
-    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+.u41_normal {
+    background-image: url('../confirmar_datos_factura_files/u16_normal.png');
 }
 
-.u42_container {
+.u41_container {
     position:absolute;
     left:1px;
     top:26px;
@@ -744,7 +726,7 @@ div {
     height:24px;
 }
 
-#u42_img {
+#u41_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -752,7 +734,7 @@ div {
     height:30px;
 }
 
-.u43 {
+.u42 {
     position:absolute;
     left:2px;
     top:4px;
@@ -766,7 +748,7 @@ div {
     word-wrap:break-word;
 }
 
-.u44 {
+.u43 {
     position:absolute;
     left:6px;
     top:33px;
@@ -780,11 +762,11 @@ div {
     word-wrap:break-word;
 }
 
-.u45_normal {
-    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+.u44_normal {
+    background-image: url('../confirmar_datos_factura_files/u16_normal.png');
 }
 
-.u45_container {
+.u44_container {
     position:absolute;
     left:1px;
     top:115px;
@@ -792,7 +774,7 @@ div {
     height:24px;
 }
 
-#u45_img {
+#u44_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -800,7 +782,7 @@ div {
     height:30px;
 }
 
-.u46 {
+.u45 {
     position:absolute;
     left:2px;
     top:4px;
@@ -814,11 +796,11 @@ div {
     word-wrap:break-word;
 }
 
-.u47_normal {
-    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+.u46_normal {
+    background-image: url('../confirmar_datos_factura_files/u24_normal.png');
 }
 
-.u47_container {
+.u46_container {
     position:absolute;
     left:126px;
     top:125px;
@@ -830,7 +812,7 @@ div {
 
 }
 
-#u47_img {
+#u46_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -838,7 +820,7 @@ div {
     height:7px;
 }
 
-.u48 {
+.u47 {
     position:absolute;
     left:2px;
     top:-4px;
@@ -852,7 +834,7 @@ div {
     word-wrap:break-word;
 }
 
-.u49 {
+.u48 {
     position:absolute;
     left:6px;
     top:121px;
@@ -866,11 +848,11 @@ div {
     word-wrap:break-word;
 }
 
-.u50_normal {
-    background-image: url('../confirmar_datos_factura_files/u50_normal.png');
+.u49_normal {
+    background-image: url('../confirmar_datos_factura_files/u49_normal.png');
 }
 
-.u50_container {
+.u49_container {
     position:absolute;
     left:1px;
     top:52px;
@@ -878,7 +860,7 @@ div {
     height:64px;
 }
 
-#u50_img {
+#u49_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -886,7 +868,7 @@ div {
     height:70px;
 }
 
-.u51 {
+.u50 {
     position:absolute;
     left:2px;
     top:24px;
@@ -900,11 +882,11 @@ div {
     word-wrap:break-word;
 }
 
-.u52_normal {
-    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+.u51_normal {
+    background-image: url('../confirmar_datos_factura_files/u24_normal.png');
 }
 
-.u52_container {
+.u51_container {
     position:absolute;
     left:126px;
     top:105px;
@@ -916,7 +898,7 @@ div {
 
 }
 
-#u52_img {
+#u51_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -924,7 +906,7 @@ div {
     height:7px;
 }
 
-.u53 {
+.u52 {
     position:absolute;
     left:2px;
     top:-4px;
@@ -938,11 +920,11 @@ div {
     word-wrap:break-word;
 }
 
-.u54_normal {
-    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+.u53_normal {
+    background-image: url('../confirmar_datos_factura_files/u24_normal.png');
 }
 
-.u54_container {
+.u53_container {
     position:absolute;
     left:126px;
     top:8px;
@@ -954,7 +936,7 @@ div {
 
 }
 
-#u54_img {
+#u53_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -962,7 +944,7 @@ div {
     height:7px;
 }
 
-.u55 {
+.u54 {
     position:absolute;
     left:2px;
     top:-4px;
@@ -976,7 +958,7 @@ div {
     word-wrap:break-word;
 }
 
-.u56 {
+.u55 {
     position:absolute;
     left:6px;
     top:56px;
@@ -990,7 +972,7 @@ div {
     word-wrap:break-word;
 }
 
-.u57 {
+.u56 {
     position:absolute;
     left:5px;
     top:74px;
@@ -1004,7 +986,7 @@ div {
     word-wrap:break-word;
 }
 
-.u58 {
+.u57 {
     position:absolute;
     left:10px;
     top:92px;
@@ -1018,7 +1000,7 @@ div {
     word-wrap:break-word;
 }
 
-#pd1u16 {
+#pd1u15 {
     position:absolute;
     left:0px;
     top:0px;
@@ -1027,11 +1009,11 @@ div {
     
 }
 
-.u59_normal {
-    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+.u58_normal {
+    background-image: url('../confirmar_datos_factura_files/u16_normal.png');
 }
 
-.u59_container {
+.u58_container {
     position:absolute;
     left:1px;
     top:0px;
@@ -1039,7 +1021,7 @@ div {
     height:24px;
 }
 
-#u59_img {
+#u58_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -1047,7 +1029,7 @@ div {
     height:30px;
 }
 
-.u60 {
+.u59 {
     position:absolute;
     left:2px;
     top:4px;
@@ -1061,7 +1043,7 @@ div {
     word-wrap:break-word;
 }
 
-.u61 {
+.u60 {
     position:absolute;
     left:6px;
     top:5px;
@@ -1075,11 +1057,11 @@ div {
     word-wrap:break-word;
 }
 
-.u62_normal {
-    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+.u61_normal {
+    background-image: url('../confirmar_datos_factura_files/u16_normal.png');
 }
 
-.u62_container {
+.u61_container {
     position:absolute;
     left:1px;
     top:89px;
@@ -1087,7 +1069,7 @@ div {
     height:24px;
 }
 
-#u62_img {
+#u61_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -1095,7 +1077,7 @@ div {
     height:30px;
 }
 
-.u63 {
+.u62 {
     position:absolute;
     left:2px;
     top:4px;
@@ -1109,11 +1091,11 @@ div {
     word-wrap:break-word;
 }
 
-.u64_normal {
-    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+.u63_normal {
+    background-image: url('../confirmar_datos_factura_files/u24_normal.png');
 }
 
-.u64_container {
+.u63_container {
     position:absolute;
     left:126px;
     top:99px;
@@ -1125,7 +1107,7 @@ div {
 
 }
 
-#u64_img {
+#u63_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -1133,7 +1115,7 @@ div {
     height:7px;
 }
 
-.u65 {
+.u64 {
     position:absolute;
     left:2px;
     top:-4px;
@@ -1147,7 +1129,7 @@ div {
     word-wrap:break-word;
 }
 
-.u66 {
+.u65 {
     position:absolute;
     left:6px;
     top:95px;
@@ -1161,11 +1143,11 @@ div {
     word-wrap:break-word;
 }
 
-.u67_normal {
-    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+.u66_normal {
+    background-image: url('../confirmar_datos_factura_files/u16_normal.png');
 }
 
-.u67_container {
+.u66_container {
     position:absolute;
     left:1px;
     top:115px;
@@ -1173,7 +1155,7 @@ div {
     height:24px;
 }
 
-#u67_img {
+#u66_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -1181,7 +1163,7 @@ div {
     height:30px;
 }
 
-.u68 {
+.u67 {
     position:absolute;
     left:2px;
     top:4px;
@@ -1195,11 +1177,11 @@ div {
     word-wrap:break-word;
 }
 
-.u69_normal {
-    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+.u68_normal {
+    background-image: url('../confirmar_datos_factura_files/u24_normal.png');
 }
 
-.u69_container {
+.u68_container {
     position:absolute;
     left:126px;
     top:125px;
@@ -1211,7 +1193,7 @@ div {
 
 }
 
-#u69_img {
+#u68_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -1219,7 +1201,7 @@ div {
     height:7px;
 }
 
-.u70 {
+.u69 {
     position:absolute;
     left:2px;
     top:-4px;
@@ -1233,7 +1215,7 @@ div {
     word-wrap:break-word;
 }
 
-.u71 {
+.u70 {
     position:absolute;
     left:6px;
     top:121px;
@@ -1247,11 +1229,11 @@ div {
     word-wrap:break-word;
 }
 
-.u72_normal {
-    background-image: url('../confirmar_datos_factura_files/u50_normal.png');
+.u71_normal {
+    background-image: url('../confirmar_datos_factura_files/u49_normal.png');
 }
 
-.u72_container {
+.u71_container {
     position:absolute;
     left:0px;
     top:25px;
@@ -1259,7 +1241,7 @@ div {
     height:64px;
 }
 
-#u72_img {
+#u71_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -1267,7 +1249,7 @@ div {
     height:70px;
 }
 
-.u73 {
+.u72 {
     position:absolute;
     left:2px;
     top:24px;
@@ -1281,7 +1263,7 @@ div {
     word-wrap:break-word;
 }
 
-.u74 {
+.u73 {
     position:absolute;
     left:9px;
     top:34px;
@@ -1299,11 +1281,11 @@ div {
     
 }
 
-.u75_normal {
-    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+.u74_normal {
+    background-image: url('../confirmar_datos_factura_files/u24_normal.png');
 }
 
-.u75_container {
+.u74_container {
     position:absolute;
     left:126px;
     top:78px;
@@ -1315,7 +1297,7 @@ div {
 
 }
 
-#u75_img {
+#u74_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -1323,7 +1305,7 @@ div {
     height:7px;
 }
 
-.u76 {
+.u75 {
     position:absolute;
     left:2px;
     top:-4px;
@@ -1337,7 +1319,7 @@ div {
     word-wrap:break-word;
 }
 
-#pd0u16 {
+#pd0u15 {
     position:absolute;
     left:0px;
     top:0px;
@@ -1346,11 +1328,11 @@ div {
     
 }
 
-.u77_normal {
-    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+.u76_normal {
+    background-image: url('../confirmar_datos_factura_files/u16_normal.png');
 }
 
-.u77_container {
+.u76_container {
     position:absolute;
     left:1px;
     top:0px;
@@ -1358,7 +1340,7 @@ div {
     height:24px;
 }
 
-#u77_img {
+#u76_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -1366,7 +1348,7 @@ div {
     height:30px;
 }
 
-.u78 {
+.u77 {
     position:absolute;
     left:2px;
     top:4px;
@@ -1380,11 +1362,11 @@ div {
     word-wrap:break-word;
 }
 
-.u79_normal {
-    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+.u78_normal {
+    background-image: url('../confirmar_datos_factura_files/u24_normal.png');
 }
 
-.u79_container {
+.u78_container {
     position:absolute;
     left:126px;
     top:9px;
@@ -1396,7 +1378,7 @@ div {
 
 }
 
-#u79_img {
+#u78_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -1404,7 +1386,7 @@ div {
     height:7px;
 }
 
-.u80 {
+.u79 {
     position:absolute;
     left:2px;
     top:-4px;
@@ -1418,7 +1400,7 @@ div {
     word-wrap:break-word;
 }
 
-.u81 {
+.u80 {
     position:absolute;
     left:6px;
     top:5px;
@@ -1432,11 +1414,11 @@ div {
     word-wrap:break-word;
 }
 
-.u82_normal {
-    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+.u81_normal {
+    background-image: url('../confirmar_datos_factura_files/u16_normal.png');
 }
 
-.u82_container {
+.u81_container {
     position:absolute;
     left:1px;
     top:26px;
@@ -1444,7 +1426,7 @@ div {
     height:24px;
 }
 
-#u82_img {
+#u81_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -1452,7 +1434,7 @@ div {
     height:30px;
 }
 
-.u83 {
+.u82 {
     position:absolute;
     left:2px;
     top:4px;
@@ -1466,11 +1448,11 @@ div {
     word-wrap:break-word;
 }
 
-.u84_normal {
-    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+.u83_normal {
+    background-image: url('../confirmar_datos_factura_files/u24_normal.png');
 }
 
-.u84_container {
+.u83_container {
     position:absolute;
     left:126px;
     top:36px;
@@ -1482,7 +1464,7 @@ div {
 
 }
 
-#u84_img {
+#u83_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -1490,7 +1472,7 @@ div {
     height:7px;
 }
 
-.u85 {
+.u84 {
     position:absolute;
     left:2px;
     top:-4px;
@@ -1504,7 +1486,7 @@ div {
     word-wrap:break-word;
 }
 
-.u86 {
+.u85 {
     position:absolute;
     left:6px;
     top:32px;
@@ -1518,11 +1500,11 @@ div {
     word-wrap:break-word;
 }
 
-.u87_normal {
-    background-image: url('../confirmar_datos_factura_files/u17_normal.png');
+.u86_normal {
+    background-image: url('../confirmar_datos_factura_files/u16_normal.png');
 }
 
-.u87_container {
+.u86_container {
     position:absolute;
     left:1px;
     top:52px;
@@ -1530,7 +1512,7 @@ div {
     height:24px;
 }
 
-#u87_img {
+#u86_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -1538,7 +1520,7 @@ div {
     height:30px;
 }
 
-.u88 {
+.u87 {
     position:absolute;
     left:2px;
     top:4px;
@@ -1552,11 +1534,11 @@ div {
     word-wrap:break-word;
 }
 
-.u89_normal {
-    background-image: url('../confirmar_datos_factura_files/u25_normal.png');
+.u88_normal {
+    background-image: url('../confirmar_datos_factura_files/u24_normal.png');
 }
 
-.u89_container {
+.u88_container {
     position:absolute;
     left:126px;
     top:62px;
@@ -1568,7 +1550,7 @@ div {
 
 }
 
-#u89_img {
+#u88_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -1576,7 +1558,7 @@ div {
     height:7px;
 }
 
-.u90 {
+.u89 {
     position:absolute;
     left:2px;
     top:-4px;
@@ -1590,7 +1572,7 @@ div {
     word-wrap:break-word;
 }
 
-.u91 {
+.u90 {
     position:absolute;
     left:6px;
     top:58px;
@@ -1604,11 +1586,11 @@ div {
     word-wrap:break-word;
 }
 
-.u92_normal {
-    background-image: url('../confirmar_datos_factura_files/u92_normal.png');
+.u91_normal {
+    background-image: url('../confirmar_datos_factura_files/u91_normal.png');
 }
 
-.u92_container {
+.u91_container {
     position:absolute;
     left:31px;
     top:52px;
@@ -1616,7 +1598,7 @@ div {
     height:10px;
 }
 
-#u92_img {
+#u91_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -1624,7 +1606,7 @@ div {
     height:10px;
 }
 
-.u93 {
+.u92 {
     position:absolute;
     left:2px;
     top:-3px;
@@ -1638,7 +1620,7 @@ div {
     word-wrap:break-word;
 }
 
-#u94 {
+#u93 {
     position:absolute;
     left:26px;
     top:48px;
@@ -1651,7 +1633,7 @@ div {
     overflow:hidden;
 }
 
-#u95 {
+#u94 {
     position:absolute;
     left:175px;
     top:47px;
@@ -1664,7 +1646,7 @@ div {
     overflow:hidden;
 }
 
-.u97 {
+.u96 {
     position:absolute;
     left:16px;
     top:0px;
